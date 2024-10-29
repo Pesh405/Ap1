@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="commonDialogEndPercent">@integer/sw432dpH648dpDEP</item>
+    <item type="integer" name="commonDialogStartPercent">@integer/sw432dpH648dpDSP</item>
+</resources>

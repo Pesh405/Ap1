@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="commonDialogEndPercent">@integer/sw600dpDEP</item>
+    <item type="integer" name="commonDialogStartPercent">@integer/sw600dpDSP</item>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <item type="integer" name="mainBottomGuideLine2">0.68</item>
+    <item type="integer" name="trophyRoomItemEndMargin">0.8717</item>
+    <item type="integer" name="trophyRoomItemIconEndMargin">0.9</item>
+    <item type="integer" name="trophyRoomItemIconStartMargin">0.1</item>
+    <item type="integer" name="trophyRoomItemShadowEndMargin">0.95</item>
+    <item type="integer" name="trophyRoomItemShadowStartMargin">0.05</item>
+    <item type="integer" name="trophyRoomItemStartMargin">0.1283</item>
+</resources>
