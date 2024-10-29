@@ -1,0 +1,100 @@
+{
+  "activityThreadHandler": [
+    {
+      "message": "Bad notification posted from package easy.sudoku.puzzle.solver.free: Couldn't inflate contentViewsandroid.content.res.Resources$NotFoundException: failed to add asset path /data/app/easy.sudoku.puzzle.solver.free",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Bad notification posted from package easy.sudoku.puzzle.solver.free: Couldn't expand RemoteViews for: StatusBarNotification",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Attempt to invoke virtual method 'int com.android.server.wm.TaskDisplayArea.getDisplayId()' on a null object reference",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Using WebView from more than one process at once with the same data directory is not supported. https://crbug.com/558377 : Current process easy.sudoku.puzzle.solver.free",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Activity top position already set to onTop=false",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "reportSizeConfigurations: ActivityRecord not found for: Token",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Wrong state class, expecting View State but received class com.facebook.ads.internal.util.parcelable.WrappedParcelable instead.",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "com.smaato.sdk.core.framework.ModuleInterface: Error reading configuration file",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Resource ID #0x20c003c",
+      "stack": [
+        "org.chromium.ui.base.DeviceFormFactor.isTablet"
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "InputChannel is not initialized.",
+      "stack": [
+        "android.view.InputEventReceiver.nativeInit"
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    }
+  ],
+  "choreographerHandler": [
+    {
+      "message": "createWindowSurface failed EGL_BAD_ALLOC",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Canvas: trying to use a recycled bitmap android.graphics.Bitmap@",
+      "stack": [
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    },
+    {
+      "message": "Attempt to read from field 'int android.view.ViewGroup$LayoutParams.width' on a null object reference",
+      "stack": [
+        "com.amazon.device.ads.DTBAdMRAIDBannerController.lambda$null"
+      ],
+      "isSendFirebase": true,
+      "action": "exit"
+    }
+  ]
+}
