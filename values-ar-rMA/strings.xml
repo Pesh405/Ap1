@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">حول</string>
+    <string name="about_app_describe">الألغاز سودوكو الكلاسيكية مجانا</string>
+    <string name="accept">أقبل</string>
+    <string name="accuracy">الدقة</string>
+    <string name="achievement">الإنجازات</string>
+    <string name="active">نشاط</string>
+    <string name="active_coming_soon">قريبا</string>
+    <string name="active_complete_share_text">تهانينا على الفوز بنشاط السودوكو باش تحصل على المكافأة!</string>
+    <string name="active_completed">النشاط تسالا</string>
+    <string name="active_countdown">العد التنازلي</string>
+    <string name="active_get_all">تهانينا ليك! راك قدرتي تجمع كل قطع الأحجية وتحصل على شارة فهاذ النشاط اللي الوقت ديالو محدد</string>
+    <string name="active_join">انضم لهاد النشاط اللي فيه وقت محدود واحصل على مكافأة بوقت محدود</string>
+    <string name="active_lock_text">من فضلك فتح الصورة السابقة هي لولى</string>
+    <string name="active_name_adventure">مغامرة السودوكو</string>
+    <string name="active_name_animal">حماية الحيوانات</string>
+    <string name="active_name_autumn">نشاط الخريف</string>
+    <string name="active_name_camping">نشاط التخييم</string>
+    <string name="active_name_earth">يوم الأرض</string>
+    <string name="active_name_father_day">عيد الأب</string>
+    <string name="active_name_food">نشاط الذوق</string>
+    <string name="active_name_halloween">نشاط الهالوين</string>
+    <string name="active_name_harvest">موسم الحصاد</string>
+    <string name="active_name_japan">السفر إلى لليابان</string>
+    <string name="active_name_leo">نشاط برج الأسد</string>
+    <string name="active_name_libra">نشاط برج الميزان</string>
+    <string name="active_name_london">السفر للندن</string>
+    <string name="active_name_mother_day">عيد الأم</string>
+    <string name="active_name_olympic">اليوم الأولمبي</string>
+    <string name="active_name_plant_tree">نشاط غرس الأشجار</string>
+    <string name="active_name_scorpio">نشاط برج العقرب</string>
+    <string name="active_name_space">استكشاف الفضاء</string>
+    <string name="active_name_summer">عطلة الصيف</string>
+    <string name="active_name_virgo">نشاط برج العذراء</string>
+    <string name="active_name_world_travel">السفر عبر العالم</string>
+    <string name="active_plant_tree">نشاط غرس الشجرة</string>
+    <string name="active_tower_test_level_info_text">أكمل %1$s المزيد من المستويات للدخول إلى القمة %2$s</string>
+    <string name="activity_empty">حدث جديد سيكون متاحا قريبا!</string>
+    <string name="advanced">متقدم</string>
+    <string name="advanced_skill">متقدم</string>
+    <string name="all">الكل</string>
+    <string name="all_time">كل الأوقات</string>
+    <string name="allow_notification">Allow Push Notification</string>
+    <string name="always_use">استخدم ديما</string>
+    <string name="appName">سودوكو</string>
+    <string name="app_slogan">أبق ذهنك مركزاً</string>
+    <string name="auto_clear">إزالة الملاحظات تلاقائياً</string>
+    <string name="auto_complete">إتمام تلقائي</string>
+    <string name="auto_complete_desc">أكمل اللعبة تلقائيًا عند عدم ملء سوى عدد قليل من الخلايا</string>
+    <string name="average_time">متوسط الوقت</string>
+    <string name="bachelor">بكالوريوس</string>
+    <string name="battle_current_season_content">بالنظر لمستواك في الموسم اللي فات، مستواك هاد الموسم هو %1$s</string>
+    <string name="battle_explanation_content_1">أهلا بيك في معركة السودوكو، غادي تدخل في تحدي ضد عشاق السودوكو من مختلف أنحاء العالم.</string>
+    <string name="battle_explanation_content_2">الفوز بالمعارك غادي يرفع من عدد النجمات ديالك، أما الخسارة فغادي تخليك تخسرها؛ (كل فوز بأكثر من ثلاثة لمرات متتالية غادي يجيب ليك نجمات إضافية)</string>
+    <string name="battle_explanation_content_3">غادي يتعاود يتضبط كل مستوى في النهاية، وغايتم توزيع المكافآت على حساب مستواك. حتى توصل للمستوى 100!</string>
+    <string name="battle_explanation_title_2">احصل على ترقية</string>
+    <string name="battle_explanation_title_3">مكافأة الموسم</string>
+    <string name="battle_failed_text">فشلتي في المعركة.</string>
+    <string name="battle_how_to_get_badge">شارك في المعركة باش تربح ميدالية</string>
+    <string name="battle_last_season_content">وصلتي للمستوى %1$s في الموسم اللي فات، اجمع المكافآت ديالك!</string>
+    <string name="battle_record">السجل ديال المعركة</string>
+    <string name="battle_season_time_title">الموسم غايتسالى في:</string>
+    <string name="battle_tab_title">معركة</string>
+    <string name="battle_ticket_dialog_title">ربح تذاكر أكثر</string>
+    <string name="battle_tickets">تذكرة معركة</string>
+    <string name="battle_unlock_content">كمل %1$s لعبة باش تفتح</string>
+    <string name="battle_victory">معركة النصر</string>
+    <string name="battle_win_consecutive">ربحتي %1$s ألعاب متتالية!</string>
+    <string name="battle_win_star_extra">ربحتي جائزة الفوز المتتالي: النجمة الإضافية</string>
+    <string name="be_premium">حساب الأقساط</string>
+    <string name="beat_score">لقد فزت على%1$s من اللاعبين!</string>
+    <string name="become_master">باش تولي محترف</string>
+    <string name="beginner">مبتدئ</string>
+    <string name="best">أفضل النتائج</string>
+    <string name="best_daily_streak">أفضل متتالية يومية</string>
+    <string name="best_of_this_week">الأفضل هاد السيمانة</string>
+    <string name="best_time">أفضل وقت</string>
+    <string name="brain_power">قوة العقل</string>
+    <string name="brain_power_help">"قوة العقل كاتجي من مجموعة ديال الدرجات بالقياس على هاد الأبعاد الخمسة:
+الدقة: كلما كملتي الجولات بشكل مثالي، كاتزاد النتيجة
+السرعة: كلما زادت سرعة حل اللغز، كاتزاد النتيجة
+الشدة: كلما زادت الصعوبة ديال اللغز، كاتزاد النتيجة
+القدرة على التحمل: كلما كملتي السودوكو على حسب عدد الأيام، كاتزاد النتيجة
+القدرة التفجيرية: كلما كملتي ألغاز أكثر كل يوم، كاتزاد النتيجة"</string>
+    <string name="buy_subscribe_plan">خيار الاشتراك الحالي الخاص بيك</string>
+    <string name="by_our_team">من قبل فريقنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cancel_up">إلغاء</string>
+    <string name="cannot_erase_blank">لا يمكن مسح الخلية الفارغة</string>
+    <string name="cannot_erase_correct">لا يمكن مسح الخلية الصحيحة</string>
+    <string name="cannot_erase_empty">لا يمكن مسح سوى الخلايا المملوءة</string>
+    <string name="cannot_erase_prefilled">لا يمكن مسح الخلية المملوءة مسبقًا</string>
+    <string name="cannot_fill_correct">لا يمكن ملء الخلية الصحيحة</string>
+    <string name="cannot_fill_prefilled">لا يمكن ملء الخلية المملوءة مسبقًا</string>
+    <string name="cannot_hint_filled">لا يمكن أن تستخدم في الخلايا شغل</string>
+    <string name="cannot_hint_prefilled">لا يمكن استخدام إشارة للخلية المملوءة مسبقًا</string>
+    <string name="cell_fill_9">يمكن ملء هذه الخانة بالرقم \"9\"</string>
+    <string name="cell_not_8">لا يوجد هناك أي رقم \"8\" في هذا العمود</string>
+    <string name="challenge">تحدي</string>
+    <string name="challenge_is_too">هذا التحدي مفرط</string>
+    <string name="challenge_other_player">تحدى لاعبين آخرين!</string>
+    <string name="championship">بطولة</string>
+    <string name="championship_sudoku">بطولة السودوكو</string>
+    <string name="change_another_puzzle_as_daily_challenge">استبدل أحجية أخرى كتحدي يومي</string>
+    <string name="change_puzzle">استبدل اللغز</string>
+    <string name="check_network_wrong">المرجو التحقق من الشبكة</string>
+    <string name="choose_number">إختر رقما</string>
+    <string name="choose_theme">إختيار الموضوع</string>
+    <string name="classic">كلاسيكي</string>
+    <string name="classic_games">ألعاب كلاسيكية</string>
+    <string name="classic_mode">وضع كلاسيكي</string>
+    <string name="cleared">مكتمل</string>
+    <string name="click_an_empty_cell">انقر فوق خلية فارغة</string>
+    <string name="click_cell">أنقر على الخلية</string>
+    <string name="click_for_clues">انقر للحصول على أدلة</string>
+    <string name="click_this_number">انقر على هذا الرقم</string>
+    <string name="close">إغلاق</string>
+    <string name="collect">تجميع</string>
+    <string name="common_result_noraml_gift_progress">مستوى التقدم الحالي</string>
+    <string name="complete">تم</string>
+    <string name="completeActivitySudoku">كمل %1$s من نشاط Sudoku</string>
+    <string name="complete_hard_level">كمل لغز سودوكو صعيب باش تفتح هذا المستوى</string>
+    <string name="complete_ice_sudoku">كمل %1$s من ألغاز سودوكو الجليد.</string>
+    <string name="complete_killer_sudoku">كمل %1$s من ألغاز السودوكو القاتل.</string>
+    <string name="complete_medium_level">كمل لغز سودوكو متوسط باش تفتح هذا المستوى</string>
+    <string name="completed">تم</string>
+    <string name="confirm">تأكيد</string>
+    <string name="congratulation">تهانينا</string>
+    <string name="congratulations">تهانينا！</string>
+    <string name="congratulations_you_extreme">تهانينا، قدرتي تفتح الصعوبة \"القصوى\"!</string>
+    <string name="connect_fail_tip">فشل الاتصال ، يرجى المحاولة مرة أخرى لاحقًا</string>
+    <string name="connecting">الارتباط جاري….</string>
+    <string name="constellation">كوكبة</string>
+    <string name="copper">نحاسية</string>
+    <string name="copy_id_share_friend">كوبي رمز تعريف السودوكو وشاركو مع صحابك</string>
+    <string name="country">الدولة</string>
+    <string name="country_sudoku_players">اللاعبين ديال السودوكو في هاد الدولة.</string>
+    <string name="cross_hatching">عبر الفقس</string>
+    <string name="cross_hatching2">التظليل المتقاطع</string>
+    <string name="cross_hatching_1_title">التقاطعات</string>
+    <string name="cross_hatching_2_content">خاصك تستخدم تقنية التقاطعات باش تعمر كل أرقام \"8\" على لوح اللعب.</string>
+    <string name="cross_hatching_2_title">التدرب على التقاطعات</string>
+    <string name="cross_hatching_3_content">تعلمتي كاع المهارات الخاصة بالتقاطعات، استخدم هاد المهارة باش تحل لغز السودوكو بشكل أسرع!</string>
+    <string name="cross_hatching_3_title">تهانينا!</string>
+    <string name="cross_hatching_desc">التظليل المتقاطع في سودوكو، هو المكان الذي تنظر فيه إلى مربع واحد مقارنة بالمربعين الآخرين. يمكنك البحث عن رقم محدد ومعرفة ما إذا كان هذا الرقم سيتناسب مع أي مكان داخل القسم الذي تبحث عنه.</string>
+    <string name="cross_hatching_step_1">دعنا نركز على الرقم &lt;c1>7&lt;/c1> و&lt;c1>المنطقة المميزة&lt;/c1>. لا يمكن أن يظهر رقم واحد مرتين في نفس الصف أو العمود أو المربع.</string>
+    <string name="cross_hatching_step_2">ولذلك، &lt;c1>7 &lt;/c1>لا يمكن ملؤها في المنطقة المميزة بـ \"x\" في &lt;c1>هذا المربع&lt;/c1>، إذن هناك خلية واحدة متبقية فقط في &lt;c1>هذا المربع &lt;/c1> التي يمكن ملؤها بـ &lt;c1>7&lt;/c1>.</string>
+    <string name="cross_hatching_teach_guide_content1">تقنيات المسح:</string>
+    <string name="cross_hatching_teach_guide_content2">أسهل طريقة باش تبدا تلعب لعبة السودوكو هي مسح الصفوف والأعمدة اللي كاتكون منها كل منطقة لي فيها ثلاثة د الخانات، وتتخلص من الأرقام أو المربعات، وتلقى الحالات اللي تايكون فيها رقم واحد بوحدو اللي مناسب باش تعمر بيه هداك المربع.</string>
+    <string name="cross_hatching_teach_guide_title">كاينة واحد المهارة متقدمة واللي يمكن ليها تعاونك باش تولي محترف!</string>
+    <string name="daily">يومى</string>
+    <string name="daily_challenge_text">التحدى اليومى</string>
+    <string name="daily_challenge_title">لعبة السودوكو اليومية</string>
+    <string name="daily_life">الحياة اليومية</string>
+    <string name="daily_reward">الجائزة اليومية!</string>
+    <string name="daily_streak">متتالية يومية</string>
+    <string name="daily_sudoku_solved">اتممت %1$s من التحدي اليومي</string>
+    <string name="daily_sudoku_tip">قم بحل سودوكو مرة فى اليوم و أحصل على الجوائز</string>
+    <string name="daily_task">مهمة يومية</string>
+    <string name="daily_task_battle">كمل %1$s من معارك السودوكو</string>
+    <string name="daily_task_complete">كملتي مهمة وحدة</string>
+    <string name="daily_task_daily">كمل %1$s من ألغاز السودوكو اليومية</string>
+    <string name="daily_task_dc">كمل %1$s من تحديات السودوكو اليومية</string>
+    <string name="daily_task_normal">كمل %1$s من ألغاز السودوكو العادي</string>
+    <string name="daily_task_reward">مكافأة المهمة اليومية</string>
+    <string name="daily_task_tip">فوز بألعاب كثر باش تحصل على مكافآت كثر!</string>
+    <string name="daily_task_update">كاين واحد التحديث فالمهام اليومية</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="dark_mode_sync">مزامنة الوضع المظلم</string>
+    <string name="date">تاريخ</string>
+    <string name="date_md">default</string>
+    <string name="date_range">نطاق الموعد</string>
+    <string name="date_ymd">default</string>
+    <string name="day">يوم</string>
+    <string name="dc">التحدى اليومى</string>
+    <string name="dcTaskDes1">كمل الجولة الأولى من تحدي اليوم</string>
+    <string name="dcTaskDes2">كمل الجولة الثانية في %1$s دقيقة، أو ما تفوتش خطأ واحد على أقصى تقدير</string>
+    <string name="dcTaskDes3">كمل الجولة الثالثة بشكل مثالي، أو في %1$s دقيقة</string>
+    <string name="dcTaskDialogTitle">تحدي اليوم</string>
+    <string name="dc_complete_info">%1$s(%2$s) من اللاعبين أكملوا تحدي اليوم</string>
+    <string name="dc_complete_percentage">%1$s من المستخدمين ربحوا هاد الجائزة</string>
+    <string name="dc_complete_share_text">تهانينا على إنجاز الحدث اليومي والفوز بالجائزة!</string>
+    <string name="dc_feedback_easy">سهل</string>
+    <string name="dc_feedback_hard">صعب</string>
+    <string name="dc_feedback_received">تلقى</string>
+    <string name="dc_full_month">لقد أكملت جميع التحديات لمدة شهر واحد ، والكأس غير متوفرة الآن!</string>
+    <string name="dc_full_week">لقد أكملت جميع التحديات لمدة أسبوع واحد ، نتطلع إلى الأسبوع المقبل!</string>
+    <string name="dc_month_first">لقد أكملت التحدي اليومي الأول لهذا الشهر ، استمر في ذلك!</string>
+    <string name="dc_player_start_count_tips">انضم %1$s لاعبًا إلى التحدي اليوم. واش بغيتي تجرب؟</string>
+    <string name="dc_player_win_count_tips">أكمل %1$s لاعبين</string>
+    <string name="dc_push_content_1">واش تقدر تحل اللغز اليوم؟ 🎓”>>”</string>
+    <string name="dc_push_content_2">واش نتا واجد باش تحدى راسك بلغز Sudoku جديد؟ ”>>”</string>
+    <string name="dc_push_content_3">♨️لعب Sudoku تايعطيك طريقة صحية باش ترتاح من مهامك اليومية ”>>”</string>
+    <string name="dc_push_content_4">💪 لغز Sudoku واحد كل يوم تا يعطيك قدرة مثالية على حل المشكلات! 💪”>>”</string>
+    <string name="dc_push_content_5">💪لعب Sudoku بشكل يومي تايعزز مهارات الانتباه والتركيز ديالنا على المدى الطويل! 💪”>>”</string>
+    <string name="dc_push_content_6">👏👏👏 الأشخاص اللي تايلعبو لعبة Sudoku غالبا ما كتكون عندهم ذاكرة أقوى مع مهارات الانتباه والتفكير المنطقي. \">>\"</string>
+    <string name="dc_push_content_7">♨️Sudoku غايعاونك على تهدئة ذهنك والتخلص من الضغط والقلق ”>>”</string>
+    <string name="dc_push_content_8">كمل لغز Sudoku كل يوم وحافظ على نشاط ذهنك! 🧠”>>”</string>
+    <string name="dc_push_content_9">أنت قريب من المكافاءة الشهرية! 🏆”>>”</string>
+    <string name="dc_push_title">⏰تنبية ديال التحدي اليومي!</string>
+    <string name="dc_still">لا يزال كلاسيكي سودوكو</string>
+    <string name="dc_task_complete_des">كملت التحدي ديال اليوم!</string>
+    <string name="dc_trophy_empty_content">حل السودوكو مرة في اليوم واجع الجوائز!</string>
+    <string name="dc_try">جرب حظك</string>
+    <string name="dc_unlock_killer">تم فتح Killer Sudoku لتحدي اليوم</string>
+    <string name="dc_win_coin">القطع النقدية اللي ربحتيها</string>
+    <string name="dc_win_cup">الكؤوس اللي ربحتيها</string>
+    <string name="dear_sudoku_player_text1">المظهر الجديد! ! !</string>
+    <string name="dear_sudoku_player_text2">تأثير بصري أوضح ؛</string>
+    <string name="dear_sudoku_player_text3">عملية لعبة أكثر ملاءمة ؛</string>
+    <string name="dear_sudoku_player_text4">ألوان خلفية أكثر ملاءمة للعين ؛</string>
+    <string name="dear_sudoku_player_text5">المزيد لتكتشفه …</string>
+    <string name="dear_sudoku_player_text6">نأمل أن نقدم لك تجربة سودوكو أفضل في التطبيق.</string>
+    <string name="dear_sudoku_player_text7">لا تتردد في ترك آرائك واقتراحاتك وحتى قصصك عبر الإعدادات–التعليقات.</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="delete_account_confirm_message">حذف الحساب نهائي، وملي غادي تحذفو غادي تفقد تلميحاتك، أقلامك السريعة، تذاكر معاركك، ومعطيات لعبتك.</string>
+    <string name="delete_account_confirm_title">واش نتا متأكد أنك باغي تحذف الحساب ديالك؟</string>
+    <string name="delete_account_fail">فشل حذف</string>
+    <string name="delete_account_success">الحساب تحذف بنجاح، من فضلك عاود روديماري اللعبة.</string>
+    <string name="deleting">حذف …</string>
+    <string name="dialog_battle_name_title">دخل سميتك</string>
+    <string name="dialog_battle_new_feature_content">تحدى لاعبين خرين ف معارك سودوكو!</string>
+    <string name="dialog_battle_start_loading_title">البحث على منافس…</string>
+    <string name="dialog_gift_tip">تهانينا! هناك هدية لك!</string>
+    <string name="difficulty">صعوبة</string>
+    <string name="down_vote">تصويت سلبي</string>
+    <string name="download">تحميل</string>
+    <string name="download_failed">التحميل فشل</string>
+    <string name="download_success">تنزيل النجاح</string>
+    <string name="easy">سهل</string>
+    <string name="easy_beat_80">أنت تفوقتي على 80% من اللاعبين في المستوى السهل!</string>
+    <string name="easy_sudoku_solved">اتممت %1$s من لغز السودوكو السهل</string>
+    <string name="edit">تحرير</string>
+    <string name="enjoy_now">استمتع بيها دابا</string>
+    <string name="erase">محو</string>
+    <string name="event_games">ألعاب الأحداث</string>
+    <string name="event_trophy_empty_content">اشترك في الفعاليات واربح الأوسمة</string>
+    <string name="event_trophy_empty_title">لا يوجد لديك أوسمة بعد</string>
+    <string name="events">أحداث</string>
+    <string name="events_bubble_text">حدث فوقت محدد، أجي شارك باش تفوز بجوائز!</string>
+    <string name="events_in_progress">التقدم متواصل</string>
+    <string name="exclude_cell_1">وكيما كاتشوف، هنا راه غادا تبان ليك %1$s مع المنطقة ديالها.</string>
+    <string name="exclude_cell_2">%1$s ما يمكنش تبان في المنطقة البارزة.</string>
+    <string name="exclude_cell_3">هاد الخلية هي الخلية الوحيدة في %1$s اللي يمكن تلقا فيها %2$s؛</string>
+    <string name="exclude_cell_4">وهاكا هاد الخلية خاصك تعمرها غير ب %1$s.</string>
+    <string name="exit">خروج</string>
+    <string name="exit_battle">خروج من المعركة</string>
+    <string name="expert">خبير</string>
+    <string name="expert_beat_80">أنت تفوقتي على 80% من اللاعبين في المستوى الاحترافي!</string>
+    <string name="expert_sudoku_solved">اتممت %1$s من لغز السودوكو الخبير</string>
+    <string name="explore">استكشف</string>
+    <string name="explore_strategies">اكتشف الاستراتيجيات</string>
+    <string name="explore_tips">أكثر من Sudoku الكلاسيكية</string>
+    <string name="explosiveness">القدرة التفجيرية</string>
+    <string name="extreme">قصوى</string>
+    <string name="failed_sudoku_text">%1$s من المستخدمين مقدروش يحلوا هاد اللغز ديال السودوكو. حاول مرة أخرى!</string>
+    <string name="failed_to_load">فشل التحميل ، يرجى التحقق من إعدادات الشبكة！</string>
+    <string name="fast">سريع</string>
+    <string name="fast_pencil">قلم سريع</string>
+    <string name="feedback">أرسل لنا رأيك</string>
+    <string name="feedback_2">فيدباك</string>
+    <string name="feedback_contact_placeholder">الرجاء ترك بريدك الإلكتروني.</string>
+    <string name="feedback_guide_message">يرجى تركنا بعض التعليقات.</string>
+    <string name="feedback_guide_next_time">المرة القادمة</string>
+    <string name="feedback_guide_title">خوذ شويا من وقتك</string>
+    <string name="feedback_ok">حسنا</string>
+    <string name="feedback_section_contact">معلومات الاتصال</string>
+    <string name="feedback_section_content">المشكلة والتعليق (يمكنك تنزيل الصور)</string>
+    <string name="feedback_section_type">اختار موضوع من فضلك (مطلوب)</string>
+    <string name="feedback_submit">أرسل</string>
+    <string name="feedback_submit_failed">مشكل في الشبكة</string>
+    <string name="feedback_submitting">الإرسال جاري...</string>
+    <string name="feedback_success">تم بنجاح</string>
+    <string name="feedback_success_message">شكرا لك على الفيدباك الذي قدمته، سنراجعه ونعمل من أجل الأفضل!</string>
+    <string name="feedback_text_placeholder">من فضلك وصف لينا المشكل، وحنا غادين نحاولو نحلوه في أسرع وقت</string>
+    <string name="feedback_time_error">خطأ إعداد الوقت</string>
+    <string name="feedback_title">الفيدباك</string>
+    <string name="feedback_type_error">أخطاء أو خصائص ماشي عادية</string>
+    <string name="feedback_type_other">مختلفات</string>
+    <string name="feedback_type_suggestion">اقتراحات من أجل التطوير</string>
+    <string name="festival">مهرجان</string>
+    <string name="first_box_solved">اتممت المربع الأول</string>
+    <string name="first_column_solved">اتممت العمود الأول</string>
+    <string name="first_move">الخطوة الأولى</string>
+    <string name="first_number_solved">اتممت الرقم الأول</string>
+    <string name="first_row_solved">اتممت الصف الأول</string>
+    <string name="first_sudoku_solved">أتممت لغز سودوكو الأول</string>
+    <string name="font_size">حجم الكتابة</string>
+    <string name="free">مجاناً</string>
+    <string name="free_hints">إشارات مجانية</string>
+    <string name="fri">الجمعة</string>
+    <string name="friends_join_game_entering_id">يمكن ليك تلعب نفس لعبة السودوكو مع صاحبك، يكفي دخل رمز تعريف السودوكو ديالو.</string>
+    <string name="game_completed">إكتملت اللعبة</string>
+    <string name="game_completed_in_the_country">الألعاب اللي كملوها فهاد الدولة.</string>
+    <string name="game_over">إنتهت اللعبة</string>
+    <string name="game_over_tip">قربتي تحقق الهدف ديالك، واصل الفوز!</string>
+    <string name="game_started">اللعبة بدات</string>
+    <string name="game_time">الوقت سودوكو</string>
+    <string name="games_started">الألعاب بدات</string>
+    <string name="games_won">الألعاب اللي فزتي بيها</string>
+    <string name="get_extra_lives">احصل على ثلاثة ديال الحيوات إضافية</string>
+    <string name="get_more_hint">احصل على المزيد من التلميحات</string>
+    <string name="get_more_lives">احصل على حيوات أكثر</string>
+    <string name="get_premium">احصل على النسخة الممتازة</string>
+    <string name="get_premium_success">احصل على النسخة الممتازة بنجاح！</string>
+    <string name="get_star_to_level_up">احصل على %1$s ديال النجوم في %2$s باش تقدر تحسن مستواك</string>
+    <string name="giant">عملاق</string>
+    <string name="gifts">هدية</string>
+    <string name="gifts_get_hints">"تهانينا !
+ راك حصلتي على %1$s تلميح."</string>
+    <string name="go">اذهب إلى</string>
+    <string name="gold">ذهبية</string>
+    <string name="goon">مواصلة</string>
+    <string name="guide_desc_1">يجب أن يحتوي كل &lt;#1>كتلة 3x3&lt;/#1> على جميع الأرقام من 1 إلى 9. &lt;#1>أكمل الكتلة في الشبكة.&lt;/#1></string>
+    <string name="guide_desc_2">يجب أن يحتوي كل &lt;#1>صف&lt;/#1> على الأرقام من 1 إلى 9. &lt;#1>أكمل الصف.&lt;/#1></string>
+    <string name="guide_desc_3">يجب أن يحتوي كل &lt;#1>عمود&lt;/#1> على الأرقام من 1 إلى 9. &lt;#1>أكمل العمود.&lt;/#1></string>
+    <string name="guide_desc_4">حاول الآن حل بقية اللغز.</string>
+    <string name="guide_game_teach_tips">عالق في لغز؟ دعني أساعدك في حله!</string>
+    <string name="guide_game_tips">واعر باش تدوز أول تحدي سودوكو ديالك؟ يالاه!</string>
+    <string name="guide_index_two_text">حدد خلية، ثم اضغط على رقم لملء الخلية.</string>
+    <string name="guide_step_info">لقد ملأت مسبقا مجموعة خانات، صفا وعموداالهدف من السودوكو هو جعل كل مجموعة خانات، صف، وعمود يحوي أرقاما \"من 1 إلى 9\"حاول الآن إتمام لغز السودوكو</string>
+    <string name="guide_title_1">القواعد بسيطة</string>
+    <string name="guide_title_2">تعمل الصفوف بنفس الطريقة</string>
+    <string name="guide_title_3">الأعمدة ليست مختلفة</string>
+    <string name="guide_title_4">أكمل اللغز</string>
+    <string name="hard">صعب</string>
+    <string name="hard_beat_80">أنت تفوقتي على 80% من اللاعبين في المستوى الصعب!</string>
+    <string name="hard_sudoku_solved">اتممت %1$s من لغز السودوكو الصعب</string>
+    <string name="have_no_badge">معندكش شارة</string>
+    <string name="help">مساعدة</string>
+    <string name="help_center">خدمة الزبناء</string>
+    <string name="hidden_pair">الزوج المخفي</string>
+    <string name="hidden_pair_desc">إذا ظهر رقمان فقط في خليتين من صف أو عمود أو كتلة، فإننا نحدد هذا الزوج من الأرقام كزوج مخفي. لا يمكن ملء هاتين الخليتين إلا بهذين الرقمين، لذا يمكن حذف الأرقام المرشحة الأخرى في هاتين الخليتين.</string>
+    <string name="hidden_pair_step_1">دعنا نركز على الأرقام المميزة في هذا المربع.</string>
+    <string name="hidden_pair_step_2">في هذا المربع، يظهر &lt;c1>5&lt;/c1> و&lt;c1>9&lt;/c1> فقط في &lt;c2>هاتين الخليتين&lt;/c2>، لذلك &lt;c2>هاتان الخليتان &lt;/c2>لا يمكن أن تحتويا إلا على &lt;c1>5&lt;/c1> و&lt;c1>9&lt;/c1>.</string>
+    <string name="hidden_pair_step_3">لذلك، أي رقم غير&lt;c1> 5 &lt;/c1>و&lt;c1>9 &lt;/c1>يجب حذفه من &lt;c2>هاتين الخليتين&lt;/c2>.</string>
+    <string name="hidden_quadruple">الرباعي المخفي</string>
+    <string name="hidden_quadruple_desc">إذا ظهرت أربعة أرقام فقط في أربع خلايا من صف أو عمود أو كتلة، وكانت كل خلية تحتوي على رقمين أو ثلاثة أو أربعة من هذه الأرقام الأربعة، فإننا نحدد هذه المجموعة من الأرقام على أنها رباعي مخفي، ولا يمكن ملء هذه الخلايا الأربع إلا بهذه الأرقام الأربعة، بحيث يمكن حذف الأرقام المرشحة الأخرى في هذه الخلايا الأربع.</string>
+    <string name="hidden_quadruple_step_2">في هذا الصف، &lt;c1>2&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1> و&lt;c1>8&lt;/c1> تظهر فقط في &lt;c2>هذه الخلايا الأربع&lt;/c1> c2>، لذا فإن &lt;c2>هذه الخلايا الأربع&lt;/c2> يمكن أن تحتوي فقط على &lt;c1>2&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1> و&lt;c1>8&lt;/c1>.</string>
+    <string name="hidden_quadruple_step_3">لذلك، أي رقم غير &lt;c1>2&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1> و&lt;c1>8&lt;/c1> يجب حذفه من &lt;c2>هذه الخلايا الأربعة&lt;/c2>.</string>
+    <string name="hidden_single">الرقم المفرد المخفي</string>
+    <string name="hidden_single_desc">إذا كانت الخلية تحتوي على أكثر من مرشح واحد، ولكن تلك الخلية فقط تحتوي على رقم معين في صفها أو عمودها أو كتلتها، فيمكن ملء تلك الخلية مباشرة بهذا الرقم.</string>
+    <string name="hidden_single_step_1">هذه هي الخلية الوحيدة التي تحتوي على &lt;c1>6&lt;/c1> في هذا الصف.</string>
+    <string name="hidden_triple">الثلاثي المخفي</string>
+    <string name="hidden_triple_desc">إذا ظهرت ثلاثة أرقام فقط في ثلاث خلايا من صف أو عمود أو كتلة، وكانت كل خلية تحتوي على اثنين أو ثلاثة من هذه الأرقام الثلاثة، فإننا نحدد هذه المجموعة من الأرقام على أنها ثلاثية مخفية، ولا يمكن ملء هذه الخلايا الثلاث إلا بهذه الأرقام الثلاثية، بحيث يمكن حذف الأرقام المرشحة الأخرى في هذه الخلايا الثلاث.</string>
+    <string name="hidden_triple_step_1">دعنا نركز على الأرقام المميزة في هذا العمود.</string>
+    <string name="hidden_triple_step_2">في هذا العمود، تظهر &lt;c1>1&lt;/c1> و&lt;c1>5&lt;/c1> و&lt;c1>9&lt;/c1> فقط في &lt;c2>هذه الخلايا الثلاث&lt;/c2>، لذلك &lt;c2>هذه الخلايا الثلاث يمكن أن تحتوي الخلايا&lt;/c2> على &lt;c1>1&lt;/c1> و&lt;c1>5&lt;/c1> و&lt;c1>9&lt;/c1> فقط.</string>
+    <string name="hidden_triple_step_3">ولذلك، يجب حذف أي رقم غير &lt;c1>1&lt;/c1> و&lt;c1>5&lt;/c1> و&lt;c1>9&lt;/c1> من &lt;c2>هذه الخلايا الثلاث&lt;/c2>.</string>
+    <string name="high_order">رتبة عالية</string>
+    <string name="highlight_area">تمييز المناطق</string>
+    <string name="highlight_same_number">تمييز الأرقام المتطابقة</string>
+    <string name="highlight_same_number_desc">عند إختيار خلية بها رقم, يتم تحديد الأرقام المشابهة</string>
+    <string name="highlight_selected">تمييز كتلة, عمود و صف للخلية المحددة</string>
+    <string name="hint">إشارة</string>
+    <string name="hints_used_count">تم استعمال %1$s من التلميحات</string>
+    <string name="history">تاريخ اللعبة</string>
+    <string name="history_bottom_msg">عرض آخر 50 لعبة (باستثناء التحديات اليومية والأنشطة الأسبوعية)</string>
+    <string name="home_brain_slogan_1">لعب ألعاب العقل بحال السودوكو يقدر يطور المهارات العقلية ديال اللاعبين</string>
+    <string name="home_brain_slogan_10">تايعجبني السودوكو حيت ماتنبقاش غير نشوف الشاشة ونضيع الوقت.</string>
+    <string name="home_brain_slogan_11">تايعجبني الاسترخاء من بعد أيام الخدمة المتعبة بلعب السودوكو. هو بحال شي طريقة ديال التأمل.</string>
+    <string name="home_brain_slogan_12">بعدما جرباتو واختبراتو أجيال ورا أجيال ديال اللاعبين، السودوكو هو مفتاح بناء العقول.</string>
+    <string name="home_brain_slogan_13">حل ألغاز السودوكو تايخفف من الضغط – ويخليك ذكي أكثر!</string>
+    <string name="home_brain_slogan_14">هادشي تايعاوني نحافظ على نشاط عقلي، وتايأثر على ذاكرتي في العمل والأشياء.</string>
+    <string name="home_brain_slogan_15">كلبي ما تيعجبوش نلعب السودوكو، ولكن أش نقول؟ السودوكو تايعجبني أكثر.</string>
+    <string name="home_brain_slogan_2">لعب السودوكو تايعلمك كيفاش تحل المشاكل من خلال الاستنتاج المنطقي.</string>
+    <string name="home_brain_slogan_3">امتلاك متتالية تنافسية صحية هو جزء من كونك لاعب سودوكو رائع.</string>
+    <string name="home_brain_slogan_4">أول لغز من ألغاز الأعداد التي كاتشبه سودوكو بان ف صحيفة فرنسية عام 1895</string>
+    <string name="home_brain_slogan_5">السودوكو كايتطلب تدريب عدد كبير من \"عضلات العقل\" – بحال الاستنتاج والذاكرة.</string>
+    <string name="home_brain_slogan_6">وفقًا لأحدث أبحاث الرياضيات ، يجب أن تحتوي لعبة Sudoku على 17 دليلًا على الأقل للحصول على حل صالح</string>
+    <string name="home_brain_slogan_7">السودوكو كايتطلب مهارات التفكير باستعمال \"الجانب الأيسر من المخ\"، وكايتطلب استخراج المعنى من عدد كبير من الأرقام اللي تايبان ما عندها معنى.</string>
+    <string name="home_brain_slogan_8">نصيحتي الوحيدة ليك، إلى كنتي كاتحاول تلقى وقت باش تلعب السودوكو هي … تخطط ليه.</string>
+    <string name="home_brain_slogan_9">أنت ما تقدرش ترجع بالزمن للوراء، ولكنك تسافر بيه للمستقبل إلى لعبتي السودوكو.</string>
+    <string name="home_daily_streak">السلسلة اليومية</string>
+    <string name="home_daily_streak_desc">حل لغز لإشعال سلسلتك اليومية!</string>
+    <string name="home_text">الرئيسية</string>
+    <string name="home_warm_slogan_1">متنساش أن السودكو ماشي هو \"خدمتك\" – وإلى مبقاش تايجيب لك المتعة، خود ليك استراحة.</string>
+    <string name="home_warm_slogan_10">الطريقة الوحيدة باش تزيد القدام هي ما تشوفش اللور!</string>
+    <string name="home_warm_slogan_11">ماتبقاش تحسد الآخرين دايما، ماتنساش بأنك غادي تولي نجم لامع حتى نتا.</string>
+    <string name="home_warm_slogan_12">المرور بالعذاب مهما كان كثير، ماشي دايما أمر مؤسف.</string>
+    <string name="home_warm_slogan_13">بما أنك ما تقدرش تحصل على كولشي فمرة وحدة، استمتع بكولشي بلاما تخدم عقلك.</string>
+    <string name="home_warm_slogan_14">مكاينش واحد أكثر حظ من الآخر، ولكن كاين واحد أكثر إحباط من الآخر.</string>
+    <string name="home_warm_slogan_15">سوى كنتي كاتضحك أو كاتصفق، كون نتا.</string>
+    <string name="home_warm_slogan_2">العقول الكبيرة كاترسم لراسها أهداف، والعقول الأخرى كاتنتج الأحلام.</string>
+    <string name="home_warm_slogan_3">من المستحيل ترضي واحد الشخص اللي مكيتاخدش قرارات حاسمة فكل مرة</string>
+    <string name="home_warm_slogan_4">الحب قادر على الصمود في وجه الزمان، والرجولة كاتجنبك الوقوع في المصاعب.</string>
+    <string name="home_warm_slogan_5">مع مرور الوقت، غادي تولف كولشي تقريبا.</string>
+    <string name="home_warm_slogan_6">حياتك اليوم هي نتيجة لطباعك واختياراتك اللي فاتت.</string>
+    <string name="home_warm_slogan_7">الحياة عامرة بالأفراح وبالأحزان. الأمر كايتطلب منك تستمتع بالأفراح وتحلى بالشجاعة باش تواجه الأحزان.</string>
+    <string name="home_warm_slogan_8">فينما ما مشيت، ومهما درت، غاتلقاني دايما هنا تانتسناك.</string>
+    <string name="home_warm_slogan_9">بلاما تقلق، الأفضل مزال جاي.</string>
+    <string name="homepage">الرجوع للصفحة الرئيسية</string>
+    <string name="homepage_home">الرئيسية</string>
+    <string name="hour">س</string>
+    <string name="how_to_get_badge">شارك في أنشطة في وقت محدد باش تحصل على الشارة</string>
+    <string name="how_to_play">كيف تلعب</string>
+    <string name="i_understand">أفهم</string>
+    <string name="ice">ثلج</string>
+    <string name="ice_sudoku">سودوكو الجليد</string>
+    <string name="ice_sudoku_explain">تخلص من %1$s من الثلج في %2$s خطوات</string>
+    <string name="ice_sudoku_fail_content">خسرتي اللعبة حيث استعملتي الخطوات ديالك كاملين</string>
+    <string name="ice_sudoku_start_content_1">حل لغز Ice Sudoku يعني بأن معدل ذكاءك يتجاوز 120!</string>
+    <string name="ice_sudoku_start_guide_content">عندك عدد محدود من الحركات باش تكسر الجليد كلو. وضع العدد الصحيح باش تطلق موجة كهربائية تكسر الجليد!</string>
+    <string name="id_copied">قدرتي تكوبي رمز التعريف</string>
+    <string name="improve_tip">من فضلك أخبرنا كيف نحسًن تطبيقنا</string>
+    <string name="ingenious">مبتكر</string>
+    <string name="input_sudoku_id">دخل رمز تعريف سودوكو</string>
+    <string name="intensity">الشدة</string>
+    <string name="intermediate">متوسط</string>
+    <string name="intermediate_skill">متوسط</string>
+    <string name="invalid_id">رمز التعريف مخدامش</string>
+    <string name="jelly_fish">قنديل البحر</string>
+    <string name="jelly_fish_desc">إذا كان من الممكن أن يظهر الرقم المرشح فقط في خليتين أو ثلاث خلايا من كل من أربعة صفوف أو أربعة أعمدة، وكانت هذه الخلايا موجودة بالضبط في نفس الأعمدة الأربعة أو أربعة صفوف، فيمكن حذف الرقم المرشح من الخلايا الأخرى في هذه الأعمدة الأربعة أو الصفوف الأربعة.</string>
+    <string name="jelly_fish_step_1">أولاً، في هذه الصفوف الأربعة، يمكن فقط ملء &lt;c2>هذه الخلايا المميزة&lt;/c2> بـ &lt;c1>9&lt;/c1>. يجب أن يحتوي كل صف على خلية مملوءة بـ &lt;c1>9&lt;/c1>، لذا يجب ملء أربع من &lt;c2>هذه الخلايا&lt;/c2> بـ &lt;c1>9&lt;/c1>.</string>
+    <string name="jelly_fish_step_2">هذه الخلايا مقيدة أيضًا بـ &lt;c1>أربعة أعمدة&lt;/c1>، لذلك يجب ملء أربع من &lt;c2>هذه الخلايا&lt;/c2> في &lt;c1>هذه الأعمدة الأربعة&lt;/c1> بـ &lt;c1>9&lt;/c1>. ويمكن أن يظهر الرقم مرة واحدة فقط في العمود.</string>
+    <string name="jelly_fish_step_3">لذا، يجب ملء &lt;c2>الخلية المميزة&lt;/c2> بـ &lt;c1>9&lt;/c1> في كل من &lt;c1>هذه الأعمدة الأربعة&lt;/c1>. ثم يمكننا حذف &lt;c1>9&lt;/c1> من الخلايا الأخرى في &lt;c1>هذه الأعمدة الأربعة&lt;/c1>.</string>
+    <string name="join_friend_sudoku_game">ادخل للعبة سودوكو فراندس</string>
+    <string name="keep_it">احتفظ بيه</string>
+    <string name="key_achievement_complete_16x16">انت كملت %1$s ألغاز سودوكو في شبكة تاتكون من 16*16 ديال الخانات!</string>
+    <string name="key_achievement_complete_easy">انت كملت %1$s ألغاز سودوكو سهلة!</string>
+    <string name="key_achievement_complete_expert">انت كملت %1$s ألغاز سودوكو احترافية!</string>
+    <string name="key_achievement_complete_hard">انت كملت %1$s ألغاز سودوكو صعبة!</string>
+    <string name="key_achievement_complete_medium">انت كملت %1$s ألغاز سودوكو متوسطة!</string>
+    <string name="key_achievement_dc_continuous">انت كملت التحدي اليومي لمدة %1$s أيام متتالية!</string>
+    <string name="key_achievement_expert_perfect">انت كملت %1$s ألغاز سودوكو احترافية بشكل مثالي!</string>
+    <string name="key_achievement_hard_perfect">انت كملت %1$s ألغاز سودوكو صعبة بشكل مثالي!</string>
+    <string name="key_achievement_medium_perfect">انت كملت %1$s ألغاز سودوكو متوسطة بشكل مثالي!</string>
+    <string name="key_achievement_total_days">انت لعبت السودوكو لمدة %1$s أيام دابا!</string>
+    <string name="key_achievement_winning_streak">أنت ربحت %1$s ألعاب متتالية!</string>
+    <string name="key_skill">المهارات المفتاحية</string>
+    <string name="killer">القاتل</string>
+    <string name="killer_guide_text1">"Killer Sudoku هي لعبة مأخوذة من لعبة Sudoku الكلاسيكية.
+بلاصة اللعب فيها مقسمة لمناطق بأشكال مختلفة (أقفاص)."</string>
+    <string name="killer_guide_text2">لازم يكون مجموع الأرقام ف خلايا كل \"قفص\" متناسب مع القيمة الموجودة في الزاوية العلوية اليسرى. (ما لازمشيتكرر الرقم في أي \"قفص\")</string>
+    <string name="killer_guide_text3">"يمكن ليك ملء هاد الخلية برقم \"1\"./
+(7–6 = 1)"</string>
+    <string name="killer_guide_text4">يمكن ليك تستخدم دابا قواعد السودوكو الكلاسيكية وقواعد Killer Sudoku باش تحل الألغاز الأخرى!</string>
+    <string name="killer_sudoku">KillerSudoku</string>
+    <string name="killer_sudoku_start_content">حل لغز Killer Sudoku يعني بأن معدل ذكاءك يتجاوز 120!</string>
+    <string name="killer_sudoku_start_guide_content">لازم يكون مجموع الأرقام ف خلايا كل \"قفص\" متناسب مع القيمة الموجودة في الزاوية العلوية اليسرى. (ما لازمشيتكرر الرقم في أي \"قفص\")</string>
+    <string name="languageCode">ar-rMA</string>
+    <string name="last_digit">الرقم اللخر</string>
+    <string name="last_free_cell">آخر خلية مجانية</string>
+    <string name="last_free_cell_desc">في كل صف وعمود وكتلة، يمكن ملء الأرقام من 1 إلى 9 فقط. عندما يمتلئ صف أو عمود أو كتلة بالفعل بـ 8 أرقام، يجب ملء الخلية الفارغة المتبقية بالرقم المفقود الفريد.</string>
+    <string name="last_free_cell_step_1">إذن &lt;c1>6 &lt;/c1>هو الرقم الوحيد الممكن لـ&lt;c1> هذه الخلية&lt;/c1>.</string>
+    <string name="last_free_cell_step_2">إذن &lt;c1>1 &lt;/c1>هو الرقم الوحيد الممكن لـ&lt;c1> هذه الخلية&lt;/c1>.</string>
+    <string name="last_possible_number">الرقم الأخير الممكن</string>
+    <string name="last_possible_number_desc">لأنه يقوم على العثور على الرقم المفقود. للعثور على الرقم المفقود، يجب عليك إلقاء نظرة على الأرقام الموجودة بالفعل في المربع 3x3 الذي يهمك، وفي الصفوف والأعمدة المرتبطة به.</string>
+    <string name="last_possible_number_step_1">دعنا نحل &lt;c1>هذه الخلية&lt;/c1> معًا.هذه الخلية يتشاركها مربع وصف، ويمكن لكل منهما أن يحتوي فقط على الأرقام من 1 إلى 9 دون تكرار.</string>
+    <string name="last_possible_number_step_2">الأرقام الأخرى غير &lt;c1>3 &lt;/c1>تظهر بالفعل في المربع أو الصف. لذلك، &lt;c1>3 &lt;/c1> هو الرقم الوحيد الممكن &lt;c1>لهذه الخلية&lt;/c1>.</string>
+    <string name="last_sync">آخر مزامنة</string>
+    <string name="last_week_report">تقرير الأسبوع اللي فات</string>
+    <string name="later">لاحقاً</string>
+    <string name="learn">تعلم</string>
+    <string name="level">مستوى</string>
+    <string name="lightMode">وضع البرق</string>
+    <string name="lightModeDialogText1">فعّل وضع البرق، ودخّل مستوى السرعة.</string>
+    <string name="lightModeDialogText2">اختار رقم من اللوح أو رقم خانة، ودخّل الرقم ف أكبر عدد ممكن ديال الخانات وحدة وحدة.</string>
+    <string name="lighting">Lighting</string>
+    <string name="lighting_mode_setting_text">شغل وضع الضوء، وادخل إلى وضع الضوء بشكل تلقائي في كل مرة تبدأ فحل لغز سودوكو</string>
+    <string name="loading">التحميل جاري</string>
+    <string name="locked_candidates">المرشحات المغلقة</string>
+    <string name="locked_candidates_desc">إذا كان الرقم المرشح موجودًا فقط في صف أو عمود داخل كتلة، فلن يظهر هذا الرقم المرشح في الخلايا الأخرى التي تتأثر بنفس الصف أو العمود.</string>
+    <string name="locked_candidates_step_1">انظر، &lt;c2>هذه الخلايا &lt;/c2>هي الخلايا الوحيدة في هذا المربع التي قد تحتوي على&lt;c1> 2&lt;/c1>. لذلك يجب ملء إحدى &lt;c2>هذه الخلايا&lt;/c2> بـ &lt;c1>2&lt;/c1>.</string>
+    <string name="locked_candidates_step_2">&lt;c2>هذه الخلايا &lt;/c2>مقيدة أيضًا في &lt;c1>بصف واحد&lt;/c1>. ولذلك،&lt;c1>في هذا الصف&lt;/c1>، يجب ملء &lt;c1>2 &lt;/c1>في إحدى &lt;c2>هذه الخلايا&lt;/c2>.</string>
+    <string name="locked_candidates_step_3">ومن تم يجب حذف &lt;c1>2&lt;/c1> من الخلايا الأخرى في &lt;c1>هذا الصف&lt;/c1>.</string>
+    <string name="log_failed">فشل في الدخول، من فضلك حاول مرة اخرى</string>
+    <string name="log_in">سجل الدخول باش تزامن المعطيات</string>
+    <string name="log_in_facebook">سجل الدخول باستخدام الفيسبوك</string>
+    <string name="log_in_google">سجل الدخول باستخدام غوغل</string>
+    <string name="log_in_text">سجل الدخول والمعطيات ديالك عمرها مغادي تضيع</string>
+    <string name="log_out">سجل الخروج</string>
+    <string name="log_out_text">واش نتا متأكد بأنك باغي تخرج من اللعبة؟ مزامنة المعطيات غادا توقف ملي تسجل الخروج</string>
+    <string name="log_success">دخول ناجح</string>
+    <string name="login">سجل الدخول</string>
+    <string name="lose_it">خسرو</string>
+    <string name="losses">خسائر</string>
+    <string name="lost_game_3mistakes">لقد إرتكتبت 3 أخطاء و خسرت هذه اللعبة</string>
+    <string name="lucky_number">رقم الحظ</string>
+    <string name="made_three_mistake">درتي ثلاثة أخطاء.</string>
+    <string name="manage_subscription_text">إدارة اشتراكك</string>
+    <string name="master">محترف</string>
+    <string name="master_difficulty">صعوبة احترافية</string>
+    <string name="master_explantion_content_1">ألغاز أكثر صعوبة</string>
+    <string name="master_explantion_content_2">الفوز غادي يعطيك خمسة نجمات. الفوز المتتالي غادي يعطيك ستة نجمات. والخسارة غادي تخسر ثلاثة نجمات.</string>
+    <string name="medal_room">غرفة الميداليات</string>
+    <string name="medium">متوسط</string>
+    <string name="medium_beat_80">أنت تفوقتي على 80% من اللاعبين في المستوى المتوسط!</string>
+    <string name="medium_sudoku_solved">اتممت %1$s من لغز السودوكو المتوسط</string>
+    <string name="minute">د</string>
+    <string name="mistakes">أخطاء</string>
+    <string name="mistakes_limit">حد الأخطاء</string>
+    <string name="mistakes_limit_desc">غادي تخسر اللعبة إذا درتي 3 ديال الأخطاء</string>
+    <string name="mon">الإثنين</string>
+    <string name="month">شهر</string>
+    <string name="more">المزيد</string>
+    <string name="more_skills">مهارات أكثر</string>
+    <string name="most_popular">الأكثر طلبا</string>
+    <string name="motivation_gift_bottom_tips">كن ذكي، واصل اللغز</string>
+    <string name="motivation_gift_button">Ketik untuk Tuntut！</string>
+    <string name="motivation_gift_title">!مرحبا بعودتك</string>
+    <string name="motivation_gift_top_tips">!ها هي بعض الهدايا ليك</string>
+    <string name="my_best">الأفضل</string>
+    <string name="my_record">رقمي القياسي</string>
+    <string name="naked_pair">الزوج العاري</string>
+    <string name="naked_pair_desc">إذا كانت هناك خليتان في صف أو عمود أو كتلة تحتوي فقط على نفس الرقمين المرشحين، فإننا نحدد هذا الزوج من الأرقام كزوج مجرد. لن يظهر هذان الرقمان في الأرقام المرشحة للخلايا الأخرى في نفس الصف أو العمود أو الكتلة. لذلك، يمكننا حذف هذين الرقمين من الأرقام المرشحة للخلايا الأخرى في ذلك الصف أو العمود أو الكتلة.</string>
+    <string name="naked_pair_step_1">دعنا نركز على الأرقام المميزة في هذا العمود.</string>
+    <string name="naked_pair_step_2">هناك &lt;c2>خليتان&lt;/c2> في هذا العمود، وهما تشتركان في نفس الرقمين المرشحين بالضبط (&lt;c1>1 &lt;/c1>و &lt;c1>2&lt;/c1>)، لذلك &lt;c1>1 &lt;/c1> و&lt;c1> 2&lt;/c1> لا يمكن وضعها إلا في &lt;c2>هاتين الخليتين&lt;/c2>.</string>
+    <string name="naked_pair_step_3">وهكذا، يمكننا حذف &lt;c1>1 &lt;/c1> و &lt;c1>2 &lt;/c1> من الخلايا الأخرى في نفس العمود.</string>
+    <string name="naked_quadruple">الرباعي العاري</string>
+    <string name="naked_quadruple_desc">إذا كانت أربع خلايا في صف أو عمود أو كتلة تحتوي فقط على رقمين أو ثلاثة أو أربعة أرقام مرشحة متماثلة، فإننا نحدد هذه المجموعة من الأرقام على أنها رباعي مجرد. لن تظهر هذه الأرقام الأربعة في الأرقام المرشحة للخلايا الأخرى في نفس الصف أو العمود أو الكتلة.</string>
+    <string name="naked_quadruple_step_1">دعنا نركز على الأرقام المميزة في هذا الصف.</string>
+    <string name="naked_quadruple_step_2">توجد &lt;c2>أربع خلايا&lt;/c2> في هذا الصف، وهي تشترك في نفس المرشحين الأربعة (&lt;c1>2&lt;/c1> و&lt;c1>3&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1>)، لذلك لا يمكن وضع &lt;c1>2&lt;/c1> و&lt;c1>3&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1> إلا في &lt;c2>هذه الخلايا الأربع&lt;/c2>.</string>
+    <string name="naked_quadruple_step_3">وهكذا يمكننا حذف &lt;c1>2&lt;/c1> و&lt;c1>3&lt;/c1> و&lt;c1>6&lt;/c1> و&lt;c1>7&lt;/c1> من الخلايا الأخرى في نفس الصف.</string>
+    <string name="naked_single">المفرد العاري</string>
+    <string name="naked_single_desc">إذا كانت الخلية تحتوي على مرشح واحد فقط، فلا يمكن ملء تلك الخلية إلا بذلك الرقم المرشح.</string>
+    <string name="naked_single_step_1">تحتوي هذه الخلية على &lt;c1>6&lt;/c1> فقط.</string>
+    <string name="naked_triple">الثلاثي العاري</string>
+    <string name="naked_triple_desc">إذا كانت ثلاث خلايا في صف أو عمود أو كتلة تحتوي فقط على رقمين أو ثلاثة أرقام مرشحة متماثلة، فإننا نحدد هذه المجموعة من الأرقام على أنها ثلاثي عاري. لن تظهر هذه الأرقام الثلاثة في الأرقام المرشحة للخلايا الأخرى في نفس الصف أو العمود أو الكتلة.</string>
+    <string name="naked_triple_step_1">دعنا نركز على الأرقام المميزة في هذا الصف.</string>
+    <string name="naked_triple_step_2">هناك&lt;c2> ثلاث خلايا&lt;/c2> في هذا الصف تشترك في نفس المرشحين الثلاثة (&lt;c1>1&lt;/c1> و&lt;c1>2&lt;/c1> و&lt;c1>7&lt;/c1>)، لذلك يتم وضع 1، 2 فقط في &lt;c2>هذه الخلايا الثلاث&lt;/c2>.</string>
+    <string name="naked_triple_step_3">لذلك، يمكننا حذف &lt;c1>1&lt;/c1> و&lt;c1>2&lt;/c1> و&lt;c1>7&lt;/c1> من الخلايا الأخرى في نفس الصف.</string>
+    <string name="name">اسم</string>
+    <string name="never_played_sudoku">ما عمري لعبت السودوكو.</string>
+    <string name="newGame_active_title">شارك في الأنشطة واحصل على مكافآت</string>
+    <string name="new_best_time">أفضل توقيت جديد！</string>
+    <string name="new_challenge">تحدي جديد</string>
+    <string name="new_feature">خاصية جديدة</string>
+    <string name="new_feature_content">كمل الإنجازات ديالك في سودوكو وحاول تشعل ميداليات أكثر!</string>
+    <string name="new_game">لعبة جديدة</string>
+    <string name="new_how_to_play_hint_tips">عالق في اللغز؟ جرب استخدام تلميح!</string>
+    <string name="new_how_to_play_pencil_tips">جرّب تفعيل وضع القلم لإضافة ملاحظات أو إزالتها بسهولة!</string>
+    <string name="new_how_to_play_rules_desc">"
+قواعد لعبة السودوكو الكلاسيكية:
+
+املأ شبكة 9×9 بحيث:
+
+• يحتوي كل &lt;#1>مربع 3×3&lt;/#1> على الأرقام من 1 إلى 9
+• يحتوي كل &lt;#2>صف&lt;/#2> على الأرقام من 1 إلى 9
+• يحتوي كل &lt;#3>عمود&lt;/#3> على الأرقام من 1 إلى 9
+
+ممنوع تكرار أي رقم في أي &lt;#1>مربع 3*3&lt;/#1> أو &lt;#2>صف&lt;/#2> أو &lt;#3>عمود&lt;/#3>!"</string>
+    <string name="new_season">موسم جديد</string>
+    <string name="next">التالي</string>
+    <string name="next_game">اللعبة الماجية</string>
+    <string name="next_time">المرة الجاية</string>
+    <string name="next_update_date">تاريخ التحديث اللي جاي</string>
+    <string name="no_ads">بدون إعلانات</string>
+    <string name="no_hints">لا تلميحات</string>
+    <string name="no_lives">مبقات عند حتى حياة في اللعبة</string>
+    <string name="no_mistake_win">فوز بلا أخطاء أخطاء！</string>
+    <string name="no_mistakes">لا أخطاء</string>
+    <string name="no_popup_ads_challenge">لا يوجد تحدي إعلانات منبثقة</string>
+    <string name="no_popup_ads_tip">لا يوجد إعلانات منبثقة إذا فوز مثالي:</string>
+    <string name="no_records">لا توجد سجلات</string>
+    <string name="no_restart">لا إعادة التشغيل</string>
+    <string name="no_thanks">لا شكراً</string>
+    <string name="normal">عادي</string>
+    <string name="not_cleared">غير مكتمل</string>
+    <string name="not_complete">مزال مكاملش</string>
+    <string name="notification">تنبية</string>
+    <string name="notification_content_1">🤣لم يستطع أي شخص حل لغز السودوكو هذا من قبل！</string>
+    <string name="notification_content_26">🏆أنقر علي حتى تتمكن من إتمام لغز السودوكو🏆</string>
+    <string name="notification_content_27">اضغط هنا باش تكمل لغز السودوكو</string>
+    <string name="notification_content_28">عمر شي واحد مقدر يحل هاد اللغز ديال السودوكو!</string>
+    <string name="notification_content_29">لعب السودوكو لمدة 30 دقيقة كل يوم غيحافظ على نشاط عقلك!</string>
+    <string name="notification_content_30">واش تقدر تحل هاد اللغز ديال السودوكو في 5 دقايق؟</string>
+    <string name="notification_content_31">🤣 فقط 1% من اللاعبين قدروا يحلو هاد اللغز ديال السودوكو!</string>
+    <string name="notification_content_33">واش تقدر تحل هاد اللغز ديال السودوكو من دون أخطاء؟🤔</string>
+    <string name="notification_content_34">واش تقدر تحل هاد الألغاز ديال السودوكو بثلاثة؟💪</string>
+    <string name="notification_content_35">👀حيت تايلعبو السودوكو كل ليلة👀</string>
+    <string name="notification_content_36">👏🏆آجي وتحدى أفضل نتيجة حققتيها🏆👏</string>
+    <string name="notification_content_4">🏖حل لعبة السودوكو هذه واسترخي！</string>
+    <string name="notification_content_41">🤔حل هاد اللغز ديال السودوكوا معناه أن معدل ذكائك 180!🤔</string>
+    <string name="notification_content_42">🌟كمل هاد اللغز ديال السودوكو باش تختبر السن ديال علقلك!🌟</string>
+    <string name="notification_content_43">💪 فقط 1% من اللاعبين ديال السودوكو قدروا يكملوا هاد اللعبة.💪</string>
+    <string name="notification_content_44">🎓الأشخاص اللي عندهم معدل ذكاء أعلى من 180 بوحدهم لي يقدرو يحلو هاد اللغز.🎓</string>
+    <string name="notification_content_45">👀اضغط هنا باش تعرف شكون👀</string>
+    <string name="notification_content_46">🤔شي واحد تمكن يحطم رقمك القياسي!🤔</string>
+    <string name="notification_content_47">💪رقمك القياسي أعلى فقط من 35% من اللاعبين. واش تبغي تفوتهم؟💪</string>
+    <string name="notification_content_5">هل تستطيع حل لغز السودوكو هذا دون أن ترتكب أكثر من ثلاثة أخطاء؟🤔</string>
+    <string name="notification_content_6">هل تستطيع حل لغز السودوكو هذا في 5 دقائق؟ 🖐</string>
+    <string name="notification_content_7">هل تستطيع حل لغز السودوكو هذا دون تلميحات؟💡</string>
+    <string name="notification_dc_content_19">تم إدراج زوجة ملك إنجلترا المستقبلي هنا أيضًا كمشاهير يحب لعب Sudoku.</string>
+    <string name="notification_dc_content_20">هل يمكنك حلها اليوم؟ 🎓</string>
+    <string name="notification_dc_content_21">📅 التحدي اليومي ، هل أنت مستعد لذلك!</string>
+    <string name="notification_dc_content_22">🔢 لعب Sudoku ليس مجرد متعة والاسترخاء – فقد يساعدك على تطوير مهارات الانتباه والتركيز. 🔢 \">>\"</string>
+    <string name="notification_dc_content_23">5 دقائق هي أكثر من الوقت الكافي لبدء عقلك ، وإعادة تقييم إستراتيجية Sudoku الخاصة بك ، وتطوير منظور جديد حول كيفية عرض شبكة Sudoku.</string>
+    <string name="notification_dc_title_19">👏لماذا تحظى لعبة Sudoku بشعبية لدى المشاهير</string>
+    <string name="notification_dc_title_20">التحدي اليومي الجديد متاح. 🌟</string>
+    <string name="notification_dc_title_21">🔢 ➕ 🎮 = 🏆</string>
+    <string name="notification_dc_title_22">😇 كيف تحافظ على عقلك حادًا ونشطًا؟ 🧑‍🎓</string>
+    <string name="notification_dc_title_23">🌞 ابدأ عقلك!</string>
+    <string name="notification_dialog_msg">Turn on notifications and play sudoku anytime,any where!</string>
+    <string name="notification_home_content_1">🧑‍🎓 اقترحت بعض الدراسات أن ممارسة ألعاب الدماغ مثل Sudoku يمكن أن تحسن القدرات المعرفية للأشخاص. 🤔</string>
+    <string name="notification_home_content_2">اضغط علي لتجد الحقيقة👀</string>
+    <string name="notification_home_content_3">🔍 يجب أن تبدأ ألغاز سودوكو بـ 17 دليلًا على الأقل من أجل الحصول على حل صالح. \"→\"</string>
+    <string name="notification_home_content_4">🔢 لعب Sudoku ليس مجرد متعة والاسترخاء – فقد يساعدك على تطوير مهارات الانتباه والتركيز. 🔢 \">>\"</string>
+    <string name="notification_home_content_5">5 دقائق هي أكثر من الوقت الكافي لبدء عقلك ، وإعادة تقييم إستراتيجية Sudoku الخاصة بك ، وتطوير منظور جديد حول كيفية عرض شبكة Sudoku.</string>
+    <string name="notification_home_content_6">🎑هل هناك علاقة بين أن تكون جيدًا في الرياضيات والعلوم وأن تكون جيدًا في سودوكو ؟؟</string>
+    <string name="notification_home_content_7">يعرف لاعبو Sudoku الجيدون كيفية التعرف على الفرص واكتشاف الفرص المستقبلية عند ظهورها.</string>
+    <string name="notification_home_title_1">يمكن لـ 😺Sudoku تحسين القدرات المعرفية للأشخاص.</string>
+    <string name="notification_home_title_2">ماذا يفعل أولئك الذين ينامون جيدًا قبل النوم؟</string>
+    <string name="notification_home_title_3">💡 نصائح سودوكو</string>
+    <string name="notification_home_title_4">😇 كيف تحافظ على عقلك حادًا ونشطًا؟ 🧑‍🎓</string>
+    <string name="notification_home_title_5">🌞 ابدأ عقلك!</string>
+    <string name="notification_home_title_6">حتى لو كنت لا تحب الرياضيات @ 🧑‍🎓</string>
+    <string name="notification_home_title_7">✍️كيف تحصل على إلهام جديد لحل ألغاز سودوكو📃</string>
+    <string name="notification_normal_content_10">أينما تقع في طيف من مسافري الأعمال السعداء أو غير السعداء ، فإن أحد أفضل الأشياء التي يمكنك القيام بها في رحلة عملك التالية هو لعب Sudoku عبر الإنترنت.</string>
+    <string name="notification_normal_content_11">بغض النظر عن ما تفعله من أجل لقمة العيش ، ربما يجب أن تخطط لجعل سودوكو جزءًا من روتينك المعتاد في رحلة عملك التالية</string>
+    <string name="notification_normal_content_12">يكافئ Sudoku التركيز والعقلية الفردية ، لكنه يكافئ أيضًا القدرة على التكيف. \">>\"</string>
+    <string name="notification_normal_content_13">\"دع سودوكو يكون مدرب عقلك الشخصي\"</string>
+    <string name="notification_normal_content_14">سيساعدك أخذ استراحة غالبًا على مواجهة تحديات Sudoku بطاقة وكفاءة أكبر.</string>
+    <string name="notification_normal_content_15">يهتم العديد من كبار السن بالحفاظ على عقولهم حادة والاستمرار في تقوية قدراتهم المعرفية مع تقدمهم في السن.</string>
+    <string name="notification_normal_content_16">✏️ \"خذ 5\" وامنح نفسك فرصة جديدة لحل ألغاز سودوكو!</string>
+    <string name="notification_normal_content_17">إن امتلاك سلسلة تنافسية صحية هو جزء من كونك لاعب سودوكو رائعًا.</string>
+    <string name="notification_normal_content_18">انهض واذهب في نزهة على الأقدام وتناول وجبة خفيفة وعد إلى اللغز بعيون جديدة.</string>
+    <string name="notification_normal_content_8">إنه يتطلب عقلًا منظمًا ، والقدرة على فهم مزيج من الأرقام.</string>
+    <string name="notification_normal_content_9">قد يمنحك لعب سودوكو الراحة الذهنية الصغيرة التي تحتاجها للعودة إلى عملك اليومي وتحديات الحياة الأخرى بطاقة جديدة.</string>
+    <string name="notification_normal_title_10">💼لماذا سودوكو هي لعبة ألغاز رائعة للمسافرين من رجال الأعمال</string>
+    <string name="notification_normal_title_11">🤫 لا يتم القبض عليك أثناء لعب Sudoku أثناء اجتماع العميل.</string>
+    <string name="notification_normal_title_12">تتطلب 🧠Sudoku التفكير المنطقي من \"الدماغ الأيسر\"</string>
+    <string name="notification_normal_title_13">\"الدماغ يحتاج أيضا إلى ممارسة\"</string>
+    <string name="notification_normal_title_14">خذ استراحة!</string>
+    <string name="notification_normal_title_15">لماذا تعتبر سودوكو واحدة من أكثر الألعاب شعبية لكبار السن؟</string>
+    <string name="notification_normal_title_16">مرحبًا! أصدقاء! ➡️ الدماغ شحذ الوقت! 🧠</string>
+    <string name="notification_normal_title_17">❓ هل أنت سيد سودوكو؟</string>
+    <string name="notification_normal_title_18">📃 تذكر أن لعبة Sudoku ليست \"وظيفتك\"</string>
+    <string name="notification_normal_title_8">تتطلب 🧠Sudoku التفكير المنطقي من \"الدماغ الأيسر\"</string>
+    <string name="notification_normal_title_9">لديك استراحة عقلية！</string>
+    <string name="notification_title_1">لعبة السودوكو لهذا اليوم😊</string>
+    <string name="notification_title_2">تحدي السودوكو🎉</string>
+    <string name="notification_title_26">🤔لم يتم الانتهاء من لغز السودوكو الأخير🤔</string>
+    <string name="notification_title_27">مزال مكملتيش لغز السودوكو الأخير</string>
+    <string name="notification_title_28">لغز السودوكو ديال اليوم</string>
+    <string name="notification_title_29">البحوث بينات أن</string>
+    <string name="notification_title_30">تحدي السودوكو</string>
+    <string name="notification_title_31">لغز السودوكو ديال اليوم 😊</string>
+    <string name="notification_title_33">تحدي السودوكو🎉</string>
+    <string name="notification_title_34">تحدي السودوكو🎉</string>
+    <string name="notification_title_36">تحدي السودوكو🎉</string>
+    <string name="notification_title_41">تحدي السودوكو🎉</string>
+    <string name="notification_title_42">لغز السودوكو ديال اليوم 😊</string>
+    <string name="notification_title_43">💡تحديات سودوكو يومية💡</string>
+    <string name="notification_title_44">💡تحديات سودوكو يومية💡</string>
+    <string name="notification_title_45">🎊شي واحد أوصى بهذا من أجلك🎊</string>
+    <string name="notification_title_46">💡تحديات سودوكو يومية💡</string>
+    <string name="notification_title_47">تحدي السودوكو🎉</string>
+    <string name="number_first">الرقم أولاً</string>
+    <string name="number_first_desc">إختر رقماً و ضعه لحصره وإستخدمه لخلايا متعددة</string>
+    <string name="number_first_guide_content">اضغط جوج مرات متتالية أو بقى ضاغط لفترة طويلة باش تخدم هاد المهارات</string>
+    <string name="number_of_current_event">عدد المشاركين في الحدث اللي جاري دابا</string>
+    <string name="observe">شوف</string>
+    <string name="often_played_sudoku">تا نلعب السودوكو بزاف</string>
+    <string name="oneMoreGame">لعبة أخرى إضافية</string>
+    <string name="oops">أي أي أي</string>
+    <string name="open">مفتوح</string>
+    <string name="opt_out_tip">يمكنك إلغاء الاشتراك في الإعلانات القائمة على الاهتمامات كما هو موضح في سياسة الخصوصية.</string>
+    <string name="option">خيار</string>
+    <string name="or">أو</string>
+    <string name="others">آخر</string>
+    <string name="pause">توقف مؤقت</string>
+    <string name="payment_push_content">هناك المزيد! اضغط للحصول على مفاجآت حصرية وخصم مذهل يصل إلى 79%! ✨</string>
+    <string name="payment_push_title">🚫 ودّع الإعلانات! وهذا ليس كل شيء…</string>
+    <string name="pencil">قلم رصاص</string>
+    <string name="pencil_check_introduce">الأقلام كاتخلص من الصفوف، الأعمدة، أو الكتل ملي كاتعمرها بشكل تلقائي</string>
+    <string name="pencil_frenzy">قلم رصاص الهائج</string>
+    <string name="pencil_tip">قم بتشغيل وضع القلم لإضافة و إزالة الملاحظات</string>
+    <string name="perfect_win">فوز مثالي！</string>
+    <string name="perfect_win_no_popup_ads">فوز مثالي: لا توجد إعلانات منبثقة！</string>
+    <string name="perseverance">مثابرة</string>
+    <string name="personal_text">شخصي</string>
+    <string name="play">تشغيل</string>
+    <string name="play_dc_for_days">العب Daily challenge %1$s يوم</string>
+    <string name="play_sudoku_for_days">العب Sudoku %1$s يوم</string>
+    <string name="play_with_friends">العب مع صحابك</string>
+    <string name="play_with_friends_guide_message">يمكن ليك تبارتاجي هاد اللغز وتلعب مع أصحابك</string>
+    <string name="play_with_friends_message">لقاو الحل لنفس لغز السودوكو مجموعين</string>
+    <string name="play_with_friends_message2">العب معايا، باش نحلو لغز السودوكو بجوج</string>
+    <string name="play_with_friends_url_message">العب معايا، باش نحلو نفس لغز السودوكو بجوج</string>
+    <string name="played_classic_sudoku">سبق ليا لعبت السودوكو.</string>
+    <string name="please">لو سمحت</string>
+    <string name="please_select_an_option">من بين هاد العبارات أشناهي العبارة لي كتوصفك بشكل أفضل؟</string>
+    <string name="please_select_your_daily_gift">يرجي اختيار الهدية اليومية ديالك</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_content">قمنا بتغيير شروط الخدمة وسياسة الخصوصية لشرح ممارساتنا بشكل أفضل. انقر هنا للاطلاع على شروط الخدمة وسياسة الخصوصية المحدثة لدينا. إذا واصلت استخدام خدماتنا ، فأنت توافق على الالتزام بالتغييرات.</string>
+    <string name="promote_nonogram_content">وسوف يغيب أبدا هذا التحدي: Nonogram</string>
+    <string name="promote_nonogram_title">محاولة لغز جديد</string>
+    <string name="purchase_fail">فشل فى الشراء</string>
+    <string name="puzzle_information">معلومات اللغز</string>
+    <string name="qa_question_16x16_content_1">باش تلعب السودوكو ف وضع 16*16K، غادي تعتمد على نفس القواعد الخاصة باللعب في الأوضاع الأخرى مع واحد تغيير بسيط خاص بالحروف اللي تزادت. وهاكا، مغاديش تقدر تكرر نفس الرقم ونفس الحرف في نفس الصف، العمود أو لا الكتل اللي كاتكون من 4*4 ديال الخانات.</string>
+    <string name="qa_question_16x16_content_2">إلى بغيتي تبدل الأرقام بالحروف، يمكن ليك دوز صبعك على منطقة الأرقام.</string>
+    <string name="qa_question_16x16_title">كيفاش نلعب لعبة السودوكو اللي كاتكون من 16*16 خانة؟</string>
+    <string name="qa_question_ad_content">أول حاجة، حنا تانعتاذرو ليك بشكل مسبق إلى شفتي شي إشهار غير لائق. وإلى لقيتي شي حالة بحال هكا، دير صورة للشاشة اللي تايبان فيها الإشهار غير اللائق، وتواصل معانا من خلال التطبيق – الإعدادات – التغذية الراجعة.</string>
+    <string name="qa_question_ad_title">أشنو ندير إلى شفت شي إشهار غير مناسب؟</string>
+    <string name="qa_question_daily_sudoku_content">ألعاب سودوكو القاتل وسودوكو الجليد هي واحد الصيغ جديدة من ألعاب سودوكو، وهي كاتكون لمدة محددة وغاتلقاها في الصفحة الرئيسية. الفرق الوحيد بين لعبة سودوكو القاتل والسودوكو الكلاسيكي هو أن سودوكو القاتل فيه واحد القفص اللي تايبان ف الخطوط المنقطة. غاتلقى في الجنب شي أرقام. كل رقم من هادوك الأرقام تايمثل واحد القفص تايشير لمجموع الخلايا التي كاينة فهاداك القفص. المهمة ديالك نتا هي أنك تعمر هاديك الخانات بالأرقام حسب قواعد السودوكو الكلاسيكي وقاعدة المجموع ف الأقفاص. أما فسودوكو الجليد، فمهمتك غاتكون هي سحق كاع مكعبات الجليد بعدد محدود ديال الحركات! وباش تسحق مكعب جليد واحد، خاصك ضروري تلقى حل للغز اللي كاين فيه هداك المكعب. يمكن ليك ضيف الأرقام في كاع الخانات باستثناء الخانة التي فيها مكعب الجليد ف واحد من الصفوف، الأعمدة، أو مجموعة ديال الخانات باش تتمكن من سحق المكعب بنجاح.</string>
+    <string name="qa_question_daily_sudoku_title">أشنو تانقصدو بألعاب سودوكو القاتل وسودوكو الجليد؟ وكيفاش يمكن نلعب سودوكو القاتل وسودوكو الجليد؟</string>
+    <string name="qa_question_dark_content">غادي تلقا الوضع الليلي ف الإعدادات، وهو غيساعدك بزاف إلى كنتي باغي تلعب السودوكو ف الليل. أول حاجة غادي ديرها هي تفتح لعبة كيفما كان مستوى الصعوبة ديالها، و غادي تبان ليك شي أيقونات لفوق في ليمن ديال الشاشة. اضغط على هاديك الأيقونات، وغاتلقى ثلاث ديال التيمات، التيمة الثالثة تما هي تيمة الوضع الليلي.</string>
+    <string name="qa_question_dark_title">كيفاش يمكن ليا نشغل الوضع الليلي؟</string>
+    <string name="qa_question_difficulty_content">باش تغير مستوى الصعوبة، يمكن ليك تبع هاد الخطوات:</string>
+    <string name="qa_question_difficulty_sub_content_1">"ضغط على زر 'لعبة جديدة' اللي باين فالشاشة الرئيسية؛"</string>
+    <string name="qa_question_difficulty_sub_content_2">اختار مستوى الصعوبة المناسب ليك.</string>
+    <string name="qa_question_difficulty_title">كيفاش يمكن ليا نغير مستوى الصعوبة؟</string>
+    <string name="qa_question_notes_content">بعض المرات كاتبغي تسجل الملاحظات ملي كاتكون عندك بزاف ديال الخيارات الممكنة باش تقدر تصححها من بعد.</string>
+    <string name="qa_question_notes_sub_content_1">ضغط على زر القلم اللي كاين لتحت على ليمن ديال الشاشة؛</string>
+    <string name="qa_question_notes_sub_content_2">اختر الخانة اللي بغيتي تسجل ملاحظات عليها؛</string>
+    <string name="qa_question_notes_sub_content_3">اختر كاع الأرقام اللي يمكن ليك تستخدمها فهاد الخانة باش تسجلها ف الملاحظات؛</string>
+    <string name="qa_question_notes_sub_content_4">من بعد غاتبقى تبان هاد الأرقام ف الخانات على شكل أرقام صغيرة ورمادية اللون.</string>
+    <string name="qa_question_notes_title">كيفاش يمكن ليا نسجل الملاحظات؟</string>
+    <string name="qa_question_pencil_content">القلم السريع هو واحد الأداة اللي يمكن ليك تستعملها باش تعاونك في حل ألغاز السودوكو من المستوى الصعيب و المستوى الاحترافي. وللإشارة، القلم السريع مكاينش في المستوى البسيط ولا المتوسط ف لعبة سودوكو. القلم السريع هو واحد النسخة مطورة من القلم العادي. والفرق بيناتهم هو أن القلم السريع غايساعدك باش تعمر كاع الخلايا اللي فيها هداك الرقم في اللغز كاملو ف ثانية وحدة، وهذا تايعني أنه غيساعدك بزاف ملي تلقى مشكل ف حل بعض ألغاز السودوكو الصعيبة بزاف.</string>
+    <string name="qa_question_pencil_title">أشناهو القلم االسريع؟ وأشنو ممكن ندير بيه؟</string>
+    <string name="qa_question_quit_content_1">إلى كنتي كاتلعب في اللعبة، يمكن ليك ترجع للصفحة الرئيسية إلى ضغطتي على زر الخروج اللي كاين لفوق فليمن ديال الشاشة، وضغطي على زر التراجع اللي كاين فجهازك. غاطلع ليك واحد الشاشة تسولك واش نتا نيت متأكد بأنك باغي تخرج من اللعبة. وإلى ما لقيتيش زر الخروج في الجهاز ديالك، يمكن ليك تدوز صبعك لفوق انطلاقا من تحت الشاشة باش يبان ليك.</string>
+    <string name="qa_question_quit_content_2">وإلى هادشي كلو ماخدمش ليك، يمكن ليك تضغط على زر التراجع اللي كاين فالجهاز ديالك نيشان، وغادي تمشي الأمور بنفس الطريقة اللي وصفناها لفوق.</string>
+    <string name="qa_question_quit_title">كيفاش يمكن ليا نخرج من التطبيق؟</string>
+    <string name="qa_question_remove_content">حنا تانوفرو ليك دابا خاصية \"التخلص من الإشهارات\" من قائمة الإعدادات. وهاهي الطريقة المضبوطة اللي يمكن ليك تعتمد عليها هنا:</string>
+    <string name="qa_question_remove_sub_content_1">اضغط على زر الإعدادات اللي باين لفوق فليمن ديال الشاشة؛</string>
+    <string name="qa_question_remove_sub_content_2">"اضغط على زر 'الحصول على النسخة الممتازة' وعلى 'اشتراك'، واتبع التعليمات اللي غادي تلقاها تما."</string>
+    <string name="qa_question_remove_title">كيفاش يمكن ليا نتخلص من الإشهارات؟</string>
+    <string name="qa_question_sudoku_content">بالنسبة للأجوبة الصحيحة، راه كاع الحلول لي تانعطيوك هي بوحدها لي كاينة. فبعض المرات، تقدر ما تشوفش بأنه كاينة شي أرقام معاودة ويبان لك أن كلشي صحيح ديك الساعة، ولكن غير تزيد شويا غاتكتاشف أنها غالطة وغاتلقى راسك حاصل ومتقدرش تكمل اللغز. وهذا علاش النظام ديالنا كاينبهك ملي كادخل شي رقم ف بلاصة غلط. وإلى جاب الله وحصلتي، راه يمكن ليك تستافد من التلميحات:</string>
+    <string name="qa_question_sudoku_sub_content_1">اختار الخانة لي بغيتي تعرف الرقم المناسب ديالها؛</string>
+    <string name="qa_question_sudoku_sub_content_2">اضغط على زر التلميحات اللي كاين ف وسط الجانب اليمن ديال الشاشة؛</string>
+    <string name="qa_question_sudoku_sub_content_3">وهاكا غايبان ليك الجواب الصحيح في الخانة اللي ختاريتي.</string>
+    <string name="qa_question_sudoku_title">كايبان ليا أن بعض ألغاز السودوكو معندهاش الحل، وأن النظام ديال اللعب يقدر يصنف بعض الأجوبة اللي تانقترحها كحلول خاطئة.</string>
+    <string name="qa_question_synchronize_content">تقدر دير هاد المسألة بالضغط على علامة التبويب \"الشخصية\" اللي كاينة فاليمن فلتحت باش تدخل للحساب ديالك هو اللول. من بعد غايبان لك واحد الزر زرق كايشبه الحلقة حدا سميتك، ضغط عليه، باش تبدأ عملية المزامنة.</string>
+    <string name="qa_question_synchronize_title">كيف يمكنني ليا مزامنة المعطيات ديال اللعبة ديالي؟</string>
+    <string name="qa_question_theme_content">لحد الساعة حنا تنقدمو ليك ثلاثة تيمات ديال الخلفية، وهي التيمة الناصعة، الصفرا، والمظلمة. بالنسبة للخط فراه يمكن ليك تختار لي بغيتي. وباش دير هادشي اتبع هاد الخطوات:</string>
+    <string name="qa_question_theme_sub_content_1">ابدا اللعبة؛</string>
+    <string name="qa_question_theme_sub_content_2">اضغط على الألوان اللي كاينة ف الزاوية لفوق على ليمن ديال الشاشة؛</string>
+    <string name="qa_question_theme_sub_content_3">غاتلقى فيها ثلاثة ديال التيمات ديال الخلفية وأنواع مختلفة ديال الخطوط باش تختار منها لي بغيتي.</string>
+    <string name="qa_question_theme_title">كيفاش يمكن ليا تغيير تيمة الخلفية؟ كيفاش يمكن ليا نكبر حجم الخط أو نصغروا؟</string>
+    <string name="qa_question_tickets_content_1">"يمكن ليك تستخدم تذاكر الحرب بحال قسائم باش تدخل ل'معركة السودوكو' وتلعب ضد لاعبين من مختلف أنحاء العالم! كل معركة من معارك السودوكو الاعتيادية غاتطلب منك تذكرة وحدة. وغادي تلقى كل تذاكر المعركة اللي حصلتي عليها ف الزاوية ليسرية الي كاينة فلفوق ديال صفحة المعركة."</string>
+    <string name="qa_question_tickets_content_2">يمكن ليك تربح تذاكر المعركة ملي تفرج فإشهار مثلا، أو من خلال المكافآت اللي كاتفوز بيها.</string>
+    <string name="qa_question_tickets_title">أشنو هي تذاكر الحرب؟</string>
+    <string name="qa_question_title">أسئلة متكررة</string>
+    <string name="questionnaire_guide_msg">جاوب على شويا ديال الأسئلة اللي كاينة فهاد الاستمارة، باش تعاونا نقدمو ليك خدمة أفضل!</string>
+    <string name="questionnaire_guide_title">خوذ شويا من وقتك</string>
+    <string name="quick_start">بداية سريعة</string>
+    <string name="quit">استقال</string>
+    <string name="quit_tip">هل أنت متأكد من أنك تريد الخروج؟</string>
+    <string name="ranger">الحارس</string>
+    <string name="rank">ترتيب</string>
+    <string name="rank_over_dialog_conntent_1">تهانينا حصلتي على %1$s ميدالية ف هاد الحدث.</string>
+    <string name="rank_over_dialog_conntent_1_0">تهانينا حصلتي على %1$s ميدالية ف هاد الحدث.</string>
+    <string name="rank_over_dialog_conntent_2">تهانينا حصلتي على %1$s ميداليات و %2$s إطارات ميداليات في هاد الحدث.</string>
+    <string name="rank_over_dialog_conntent_2_0">تهانينا حصلتي على %1$s ميداليات و %2$s إطارات ميداليات في هاد الحدث.</string>
+    <string name="rank_start_dialog_level_info">%1$s من اللاعبين قدروا يكملوا هاد المستوى!</string>
+    <string name="rank_start_dialog_reward_info">مكافأة ف المستوى %1$s</string>
+    <string name="rate_of_users_reach_three_star">%1$s ديال المستخدمين وصلوا %2$s</string>
+    <string name="rate_us">قيًمنا</string>
+    <string name="rate_us_google_tip">من فضلك خذ دقيقة لتقييمنا فى Google Play</string>
+    <string name="rate_us_like_sudoku">هل تحب سودوكو؟</string>
+    <string name="reach">وصلوا</string>
+    <string name="recommend">نصح بيها</string>
+    <string name="red_heart_message_1">في كل مرة ترتكب فيها خطأ، ستفقد قلبًا واحدًا. إذا فقدت جميع القلوب، ستنتهي اللعبة.</string>
+    <string name="red_heart_message_2">لقد فقدت جميع القلوب. احصل على قلب إضافي للاستمرار في اللعب أو ستنتهي اللعبة.</string>
+    <string name="remaining_number">الرقم اللي باقي</string>
+    <string name="remaining_number_desc">عرض العدد المتبقي من كل رقم</string>
+    <string name="remove_all_ads">تخلص من كل الإعلانات</string>
+    <string name="remove_notes_when_fill_desc">عند وضع الرقم, قم بمحوه من كل الملاحظات فى الصف, العمود و الكتلة</string>
+    <string name="replay">إعادة</string>
+    <string name="restart">إعادة تشغيل</string>
+    <string name="restore_1_heart">قلب إضافي</string>
+    <string name="restore_fail">فشل فى الإستعادة</string>
+    <string name="restore_purchase">إستعادة الشراء</string>
+    <string name="restore_success">تم الإستعادة بنجاح</string>
+    <string name="result_daily_streak_desc">لغز يومي يبقي عقلك حادًا.</string>
+    <string name="resume_game">مواصلة اللعب مرة أخرى</string>
+    <string name="reward_current_level">مكافأة ف المستوى الحالي</string>
+    <string name="rewards">مكافآت</string>
+    <string name="rookie">مبتدئ</string>
+    <string name="round">جولة – %1$s</string>
+    <string name="sat">السبت</string>
+    <string name="score">نتيجة</string>
+    <string name="screen_timeout">زمن توقف الشاشة</string>
+    <string name="second">ث</string>
+    <string name="second_chance">فرصة ثانية</string>
+    <string name="see_it_now">واش كاتشوفها دابا؟</string>
+    <string name="select_country">اختار الدولة</string>
+    <string name="select_empty_cell">اختر خلية فارغة أولاً</string>
+    <string name="setting_count_time">عداد</string>
+    <string name="setting_pencil_check">قلم التحقق</string>
+    <string name="setting_sync_dark_mode">بعد غير كاتفعلو، Sudoku غادي يفعل / يعطل الوضع الليلي اللي كيتناسب مع إعدادات العرض على جهازك.</string>
+    <string name="settings">الإعدادات</string>
+    <string name="seven_day_free">عندك 7 أيام فترة تجريبية مجانية، ومن بعد %1$s لكل أسبوع</string>
+    <string name="share">مشاركة</string>
+    <string name="share_beat">أنا أضرب %1$s اللاعبين في سودوكو!</string>
+    <string name="share_fail">سهم فشل</string>
+    <string name="share_players_defeated">ديال اللاعبين تعرضوا للهزيمة!</string>
+    <string name="share_success">نجاح حصة</string>
+    <string name="share_to">حصة ل</string>
+    <string name="show_puzzle_completion_rate_at_start">إظهار معدل إكمال اللغز في البداية</string>
+    <string name="show_score">عرض النتيجة</string>
+    <string name="silver">فضية</string>
+    <string name="single_candidate">مرشح واحد</string>
+    <string name="skill_2_string_kite">2 – طائرة ورقية بحبال</string>
+    <string name="skill_claiming">مطالبة</string>
+    <string name="skill_desc_2_string_kite">"في الصف F ، يظهر الرقم 8 المرشح فقط في الخلية F6 والخلية F9. في العمود 5 ، يظهر الرقم 8 المرشح فقط في الخلية D5 والخلية H5. ونقطتا النهاية F6 و D5 في نفس الكتلة. الخلية H9 هي تقاطع في سلسلة الخلية F9 و H5. لذا يمكننا حذف الرقم 8 المرشح في H9. 
+ A 2–String Kite هو شكل خاص ثانٍ من Turbot Fish ، والذي يمكن العثور عليه في الكثير من sudokus. الوصف: ركز مرة أخرى على رقم واحد. ابحث عن صف وعمود بهما مرشحان فقط (السلاسل). يجب أن يكون مرشح واحد من الصف ومرشح واحد من العمود في نفس الكتلة. يمكن القضاء على المرشح الذي يرى الخليتين الأخريين. 2–String Kites تعمل بشكل مشابه لناطحات السحاب: يجب أن يكون أحد طرفي السلسلة صحيحًا."</string>
+    <string name="skill_desc_empty_rectangle">"في الخانة 8، مرشح الرقم 2 كيشكل شكل 'T/L/+'. مرشح الرقم 2 موجود غير في الخانات A6 وA2 في الصف A. في نفس الوقت، الشكل في الخانة 8 كاين في نفس العمود مع A6. الخانة A5 هي نقطة التقاطع في الشكل من الخانة A2 والصف H. علاش، يمكن نحيدو مرشح الرقم 2 في H2. 
+ إذا كانت صفين (مثلا، صف وعمود) كيغطيو كل الأماكن الممكنة لرقم معين داخل خانة، هاداك الرقم ما يمكنش يكون موجود في الصفين خارج الخانة، حيت هادشي غادي يخلي ما فين يكون الرقم داخل الخانة."</string>
+    <string name="skill_desc_hidden_pair">"في الصف H ، يظهر الرقم 6 و 8 المرشح فقط في الخلية H1 والخلية H2 ، لذلك يمكننا حذف الأرقام المرشحة الأخرى في هاتين الخليتين. 
+ تعمل جميع المجموعات الفرعية المخفية بنفس الطريقة ، والشيء الوحيد الذي يتغير هو عدد الخلايا والمرشحين المتأثرين بالحركة. خذ زوجًا مخفيًا: إذا كان بإمكانك العثور على خليتين داخل منزل مثل أن اثنين من المرشحين لا يظهران في أي مكان خارج تلك الخلايا في ذلك المنزل ، فيجب وضع هذين المرشحين في الخليتين. وبالتالي يمكن استبعاد جميع المرشحين الآخرين."</string>
+    <string name="skill_desc_hidden_quadruple">"في الكتلة 4 ، يظهر الرقم المرشح 5،6،7،8 فقط في الخلية D1 والخلية D2 والخلية E1 والخلية E2 ، لذلك يمكننا حذف الأرقام المرشحة الأخرى في هذه الخلايا الأربع. 
+ الرباعي المخفي (4 مرشحين في 4 خلايا) نادرًا ما يكونون. من الصعب جدًا تحديدها دون استخدام علامات قلم رصاص."</string>
+    <string name="skill_desc_hidden_single">"رقم المرشح 9 ، يظهر فقط في الخلية C6 في الكتلة 2 ، لذلك لا يمكن ملء هذه الخلية إلا بالرقم 9. 
+ مفرد مخفي يعني أنه بالنسبة لرقم معين ومنزل ، لم يتبق سوى خلية واحدة لوضع هذا الرقم. الخلية نفسها بها أكثر من مرشح واحد متبقي ، وبالتالي يتم إخفاء الرقم الصحيح بين البقية."</string>
+    <string name="skill_desc_hidden_triple">"في الصف G ، يظهر الرقم المرشح 4،7،8 فقط في الخلية G2 والخلية G7 والخلية G9 ، حتى نتمكن من حذف الأرقام المرشحة الأخرى في هذه الخلايا الثلاث. 
+ يحدث الثلاثي المخفي عندما تحتوي ثلاث خلايا في صف أو عمود أو كتلة على نفس الأرقام الثلاثة أو مجموعة فرعية من هذه الثلاثة. تحتوي الخلايا الثلاث أيضًا على مرشحين آخرين."</string>
+    <string name="skill_desc_intersection_removel">"في العمود 1 ، يظهر الرقم 6 المرشح فقط في الكتلة 4. لذا يمكننا حذف الرقم المرشح 6 الخلايا الأخرى في الكتلة 4. 
+ إزالة التقاطع هي استراتيجية يمكنك من خلالها استبعاد مرشح واحد من خلية أو خلايا. هناك نوعان من إزالة التقاطع: أزواج التأشير وتقليل المربع / الخط. يمكنك استخدام تقليل المربع / الخط إذا ظهر المرشح مرتين أو ثلاث مرات فقط في صف أو عمود ، وهؤلاء المرشحون جميعهم أيضًا في نفس المربع. عندما يحدث هذا ، فأنت تعلم أن المرشح يجب أن يحدث في هذا الصف أو العمود لأنه لا يمكن أن يظهر في أي مكان آخر هناك ، لذلك لا يمكن أن يحدث في أي مكان آخر في هذا المربع."</string>
+    <string name="skill_desc_jellyfish">"في الصف A ، E ، F ، G ، يظهر الرقم 7 المرشح فقط في العمود 2 ، 4 ، 5 ، 9. لذلك يمكننا حذف الرقم 5 المرشح في الخلايا الأخرى في العمود 2 ، 4 ، 5 ، 9 
+ تعمل قنديل البحر تمامًا مثل X– Wings ، فقط مع أربع مجموعات أساسية وأربع مجموعات غطاء بدلاً من أربعة فقط."</string>
+    <string name="skill_desc_last_digit">هنا، يمكنك فقط ملء \"8\".</string>
+    <string name="skill_desc_naked_pair">"في الصف D ، تحتوي الخلية D1 &amp;amp; D6 على رقمين مرشحين 2،9 فقط. لذلك يمكننا حذف 2،9 في الخلية D4. 
+ إذا كان بإمكانك العثور على خليتين ، في نفس المنزل ، ولم يتبق سوى نفس اثنين من المرشحين ، يمكنك استبعاد هذين المرشحين من جميع الخلايا الأخرى في ذلك المنزل."</string>
+    <string name="skill_desc_naked_quadruple">"في الصف B ، يظهر الرقم المرشح 2،3،6،7 فقط في الخلية B4 والخلية B5 والخلية B6 والخلية B7 ، لذلك يمكننا حذف 2،3،6،7 في الخلايا الأخرى في الصف ب. 
+ الرباعي المخفي (4 مرشحين في 4 خلايا) نادرًا ما يكونون. من الصعب جدًا تحديدها دون استخدام علامات قلم رصاص."</string>
+    <string name="skill_desc_naked_single">"في B6 ، يوجد رقم مرشح واحد فقط 9 ، لذلك لا يمكن ملء هذه الخلية إلا بالرقم 9. 
+ Naked Single يعني أنه في خلية معينة يبقى رقم واحد فقط ممكنًا (المرشح الأخير المتبقي ليس لديه مرشح آخر للاختباء خلفه وبالتالي فهو عارية). يجب أن يذهب الرقم بعد ذلك إلى تلك الخلية."</string>
+    <string name="skill_desc_naked_triple">"في الصف C ، يظهر الرقم المرشح 2،3،9 فقط في الخلية C5 والخلية C6 والخلية C7 ، لذلك يمكننا حذف 2،3،9 في الخلايا الأخرى في الصف ج. 
+ إذا كان بإمكانك العثور على ثلاث خلايا ، كلهم في نفس المنزل ، ولم يتبق منهم سوى نفس المرشحين الثلاثة ، يمكنك استبعاد هؤلاء المرشحين من جميع الخلايا الأخرى في ذلك المنزل. من المهم ملاحظة أنه لا يجب أن تحتوي جميع الخلايا على المرشحين الثلاثة ، ولكن يجب ألا يكون هناك أكثر من ثلاثة مرشحين في الخلايا الثلاث معًا."</string>
+    <string name="skill_desc_sky_scraper">"في الصف B ، يظهر الرقم 9 المرشح فقط في الخلية B7 و B4. في الصف الأول ، يظهر الرقم 9 المرشح فقط في الخلية 17 و 16. توجد الخلية B7 و 17 في نفس العمود ، في نفس الوقت ، الخلية B4 و 16 ليستا في نفس العمود. الخلية A6 و G4 تقاطعان في سلسلة الخلية B4 و 16. لذا يمكننا حذف الرقم 9 المرشح في الخلية A6 والخلية G4. 
+ ناطحة سحاب هي نمط بسيط يحدث غالبًا في سودوكو ويمكن رؤيته بسهولة. إنه ليس شيئًا جديدًا حقًا: ناطحة السحاب هي شكل خاص من أسماك Turbot ويمكن رؤيتها على أنها نوعان من Sashimi X–Wings. يبدو وصف النمط أكثر تعقيدًا مما هو عليه في الواقع: التركيز على رقم واحد. ابحث عن صفين (أو عمودين) يحتويان على اثنين فقط من العناصر المرشحة لهذا الرقم. إذا كان اثنان من هؤلاء المرشحين في نفس العمود (أو الصف) ، فيجب أن يكون أحد المرشحين الآخرين صحيحًا. وبالتالي يمكن استبعاد جميع المرشحين الذين يرون هاتين الخليتين."</string>
+    <string name="skill_desc_swordfish">"في الصف C ، F ، I ، يظهر الرقم 5 المرشح فقط في العمود 3 ، 5 ، 6. لذا يمكننا حذف الرقم 5 المرشح في الخلايا الأخرى في العمود 3 ، 5 ، 6. 
+ تعمل أسماك أبو سيف تمامًا بنفس طريقة X– Wings ، فقط بثلاث مجموعات أساسية وثلاث مجموعات بدلاً من مجموعتين فقط."</string>
+    <string name="skill_desc_turbot_fish">"في الكتلة 1 ، يظهر الرقم 1 المرشح فقط في الخلية C1 والخلية A3. في الصف الأول ، يظهر الرقم المرشح 1 فقط في الخلية 11 والخلية 15. وتوجد نقطتا النهاية C1 و 11 في نفس العمود. الخلية A5 هي تقاطع في سلسلة الخلية A3 و 15. لذا يمكننا حذف الرقم المرشح 1 في A5. 
+ Turbot Fish عبارة عن سلسلة X بطول أربعة مرشحين بالضبط. يمكن بناء أشكال مختلفة بمثل هذه السلسلة. إحداها تشبه سمكة ، والتي أعطت التقنية اسمها (انظر إلى المثال الصحيح: ارسم سطرين من المرشح الأحمر إلى أقرب المرشحين الأخضر والأزرق لرؤية شكل السمكة)."</string>
+    <string name="skill_desc_w_x_y_z_wing">"الأرقام المرشحة للخلية C1 هي W ، X ، Y ، Z (3 ، 2 ، 7 ، 1) ، والأرقام المرشحة للخلية B2 هي W ، Z (3 ، 1) ، والأرقام المرشحة للخلية C4 هي X ، Z (2 ، 1) ، الأرقام المرشحة للخلية C1 هي Y ، Z (7 ، 1). C1 و B2 في نفس الكتلة ولكن في صف مختلف ، C4 و C7 في نفس الصف ولكن في كتلة مختلفة. حتى نتمكن من حذف عدد المرشحين Z (1) في تقاطع الكتلة حيث توجد الخلية C1 والصف حيث توجد الخلية C4 ، C7. 
+ يشبه WXYZ–Wing الجناح XY و XYZ– الجناح ، إلا أنه مجموعة من أربع خلايا ، واحدة تشترك في وحدة مع الثلاثة الأخرى. تحتوي الخلية الأولى في WXYZ–Wing على ثلاثة أو أربعة مرشحين بينما تحتوي الخلايا الثلاثة الأخرى ، التي تسمى الأجنحة ، على اثنين لكل منها. يجب أن يشترك كل جناح في مرشح واحد مع الخلية الأولى ، (هذا جزء من مشاركة وحدة) ولكن يجب أن يشترك كل جناح في قيمة مختلفة. إذا كان المرشحون الثانيون في الأجنحة جميعًا متشابهين ، وهم أيضًا نفس المرشح المتبقي للخلية الأولى إذا كانت الخلية الأولى تحتوي على أربعة مرشحين ، فعندئذٍ إذا شاركت أي خلية خامسة هذا المرشح والوحدة مع جميع الخلايا الأخرى ، يمكن القضاء على المرشح."</string>
+    <string name="skill_desc_x_wing">"إذا قمت بتبادل مصطلحات الصفوف والأعمدة في الوصف أعلاه ، فستحصل على X–Wing في الأعمدة. 
+ خذ صفين (المجموعات الأساسية). إذا تمكنت من العثور على عمودين ، بحيث يتم احتواء جميع المرشحين من رقم معين (رقم الأسماك) في كلا الصفين في الأعمدة (مجموعات الغلاف) ، يمكن استبعاد جميع الأسماك المرشحة في الأعمدة التي ليست جزءًا من الصفوف . النتيجة تسمى X–Wing في الصفوف. إذا قمت بتبديل صفوف وأعمدة المصطلحات في الوصف أعلاه ، فستحصل على X– Wing في الأعمدة."</string>
+    <string name="skill_desc_x_y_chain">"يحتوي المرشح 4 على سلسلة ثنائية قوية ومتعددة الأرقام: F1 (4) == (9) –A1 (9) == (7) –C3 (7) == 3– 13 (3) == 4 (نقطة البداية: أخضر. نقطة النهاية: أصفر. سلسلة ارتباط قوي: سهم متصل. ارتباط ضعيف: خط منقط. لذلك يمكننا حذف الرقم المرشح 4 في تقاطع F1 و 13. 
+ سلسلة XY هي سلسلة يستخدم فقط الخلايا ثنائية التكافؤ (على غرار الأزواج البعيدة) ، ولكن يمكن أن يكون للخلايا مرشحة عشوائية. القيد الوحيد (إلى جانب الضرورات الواضحة للروابط) هو أن السلسلة XY تبدأ وتنتهي برابط قوي على نفس الرقم كما هو الحال مع X–Chains ، يثبت هذا أنه يجب وضع هذا المرشح في إحدى نقاط النهاية ، ويمكن إزالته من جميع الخلايا التي ترى طرفي السلسلة."</string>
+    <string name="skill_desc_x_y_wing">"كل من المرشح X ، Y (9 ، 7) والمرشح Y ، Z (7 ، 4) موجودان في المجموعة 4. في الوقت نفسه ، ليسوا في نفس الصف. 7) والمرشحان X، Z (9، 4) في نفس الصف وفي نفس الوقت ليسوا في نفس الكتلة لذا يمكننا حذف Z (4) في تقاطع الكتلة حيث X، Y (9 ، 7) يقع والخط حيث يقع X، Z (9، 4) ويمكننا أيضًا حذف Z (4) في تقاطع الكتلة حيث يقع X، Z (9، 4) و الخط حيث يقع Y ، Z (7 ، 4). 
+ إن XY–Wing هو بالفعل سلسلة XY قصيرة توصف كنمط وبالتالي يمكن العثور عليها بسهولة أكبر. نبدأ بالبحث عن خلية ثنائية الضخ (المحور). يُطلق على المرشحين المحتملين في تلك الخلية اسم X و Y. نحاول الآن العثور على خليتين أخريين ترى المحور (الكماشة). تحتوي إحدى هذه الخلايا على المرشحين X و Z (Z هو مرشح عشوائي يختلف عن X و Y) والمرشحين الآخرين Y و Z. الآن يمكن استبعاد Z من أي خلية ترى كلا الكماشة."</string>
+    <string name="skill_desc_x_y_z_wing">"الأرقام المرشحة للخلية 13 هي X ، Y ، Z (5 ، 7 ، 9) ، والأرقام المرشحة للخلية H3 هي Y ، Z (7 ، 9) ، والأرقام المرشحة للخلية 19 هي X ، Z ( 5 ، 9). H3 و 13 في نفس الكتلة ولكن في صف مختلف ، 19 و 13 في نفس الصف ولكن في كتلة مختلفة. لذلك يمكننا حذف عدد المرشحين Z (9) في تقاطع الكتلة حيث توجد الخلية 13 والصف الذي توجد به الخلية 19. 
+ إن XYZ–Wing هو نسخة محسّنة من XY– Wing: الآن لا يحتوي المحور على المرشحين X و Y فقط ولكن Z أيضًا. وبالتالي لا يمكن التخلص من Z إلا من الخلايا التي لا ترى الكماشة فحسب ، بل ترى المحور أيضًا."</string>
+    <string name="skill_desc_y_chain">"تحتوي الخلايا A2 و B5 فقط على الرقم المرشح X و Y (1،5) وليست في نفس القطاع. في نفس الوقت ، يظهر الرقم المرشح X (1) في الصف C فقط في عمود هاتين الخليتين ، لذلك يمكننا حذف الرقم المرشح Y (5) في تقاطع A2 و B5. يبدأ 
+ Y–Wing بمربع يحتوي على اثنين من الخيارات المرشحة بالضبط ، ويسمى هذا المربع أحيانًا المحور أو المفصلة ، ويمكنك استخدام Y–Wing إذا كان كل من الخيارين المرشحين في المحور يشكل زوجًا مترافقًا في وحدتين مختلفتين. يشار أحيانًا إلى نقطتي النهاية للأزواج المترافقة على أنها كماشة. ومع ذلك ، يمكنك فقط استخدام Y–Wing إذا كانت الكماشة تحتوي على رقمين بالضبط ، وإذا كان أحد هذين الرقمين هو نفسه في كلا الكماشة. قد تتمكن من حذف هذا الرقم المشترك ، ابحث عن المربعات التي يمكن لكل من الكماشة رؤيتها. إذا كان أي من هذه المربعات يحتوي على المرشح المشترك ، فيمكنك حذف هذا المرشح من تلك المربعات."</string>
+    <string name="skill_direct_claiming">مطالبة مباشرة</string>
+    <string name="skill_empty_rectangle">مثلث فارغ</string>
+    <string name="skill_hidden_pair">زوج مخبي</string>
+    <string name="skill_hidden_quadruple">رباعي مخبي</string>
+    <string name="skill_hidden_single">فرد مخبي</string>
+    <string name="skill_hidden_triple">ثلاثي مخبي</string>
+    <string name="skill_home_guide_desc">تعال واستكشف المزيد من استراتيجيات حل ألغاز سودوكو</string>
+    <string name="skill_intersection_removel">حذف التقاطع</string>
+    <string name="skill_jellyfish">قنديل البحر</string>
+    <string name="skill_last_digit">الرقم الأخير</string>
+    <string name="skill_list_guide_desc">في المرة القادمة يمكن العثور على استراتيجيات في الصفحة الرئيسية</string>
+    <string name="skill_naked_pair">زوج عاري</string>
+    <string name="skill_naked_quadruple">رباعي عاري</string>
+    <string name="skill_naked_single">فرد عاري</string>
+    <string name="skill_naked_triple">ثلاثي عاري</string>
+    <string name="skill_required">المهارات المطلوبة!</string>
+    <string name="skill_sky_scraper">ناطحة سحاب</string>
+    <string name="skill_swordfish">سمكة أبو سيف</string>
+    <string name="skill_turbot_fish">سمك التوربوت</string>
+    <string name="skill_w_x_y_z_wing">جناح – WXYZ</string>
+    <string name="skill_x_wing">جناح – X</string>
+    <string name="skill_x_y_chain">سلسلة – XY</string>
+    <string name="skill_x_y_wing">جناح – XY</string>
+    <string name="skill_x_y_z_wing">جناح – XYZ</string>
+    <string name="skill_y_chain">جناح – Y</string>
+    <string name="skip">تخطي</string>
+    <string name="smart_hint">تلميح ذكي</string>
+    <string name="smart_hint_apply">تنفيذ</string>
+    <string name="smart_hint_back">تراجع</string>
+    <string name="smart_hint_box">خانة</string>
+    <string name="smart_hint_column">عمود</string>
+    <string name="smart_hint_desc">يمكن أن يساعدك التلميح الذكي في حل مشاكل سودوكو ، وهو فعال في Easy and Medium Sudoku</string>
+    <string name="smart_hint_highlight_area">المنطقة البارزة</string>
+    <string name="smart_hint_row">صف</string>
+    <string name="solve_cells">حل الخلايا</string>
+    <string name="solve_in_limit_time">لقا حل للغز في %1$s ديال الدقايق</string>
+    <string name="solve_in_min">حل في %1$s دقيقة</string>
+    <string name="solve_in_x_min">حل اللغز في %1$s دقيقة</string>
+    <string name="solve_the_select_cell">لقا حل للخانات المختارة</string>
+    <string name="solve_with_no_mistake">لقا ليه الحل بلا ما ترتكب حتا خطأ</string>
+    <string name="solve_within_mistakes">حل في حدود %1$s خطأ</string>
+    <string name="sound_effect">مؤثر صوتى</string>
+    <string name="special_sudoku">أشنا هو لغز السودوكو المميز ديالك اليوم؟</string>
+    <string name="speed">السرعة</string>
+    <string name="spin">تدوير</string>
+    <string name="stamina">القدرة على التحمل</string>
+    <string name="start">بداية</string>
+    <string name="statistics">إحصائيات</string>
+    <string name="statistics_best_win_streak">أفضل الإنتصارات فوز</string>
+    <string name="statistics_perfect_wins">الانتصارات مثالية</string>
+    <string name="statistics_ranking_top">قمة</string>
+    <string name="statistics_share_dlg_title">بلدي الاحصائيات</string>
+    <string name="statistics_update_tip">تذكير: في ميزة الإحصائيات الجديدة ، سيتم حساب التحدي اليومي ومعلومات اللعبة ذات الصلة في هذا الحدث في الوضع الكلاسيكي!</string>
+    <string name="step">خطوة</string>
+    <string name="strategies">الاستراتيجيات</string>
+    <string name="streak">متتالية %1$s</string>
+    <string name="submit">ارسل</string>
+    <string name="subscribe">اشترك</string>
+    <string name="subscribe_content2">هاد الإشتراك تايجدد بشكل تلقائي. والثمن كايضاف لحسابك في غوغل بلاي من بعد ما توافق عليه. غايتم تجديد الإشتراك إلا إلى لغيتيه ب 24 ساعة على الأقل قبل نهاية الفترة. وغايتم إضافة فاتورة تجديد الاشتراك للحساب ديالك</string>
+    <string name="success">تم بنجاح</string>
+    <string name="sudoku">سودوكو</string>
+    <string name="sudoku_16x16_solved">اتممت %1$s من لغز السودوكو 16x16</string>
+    <string name="sudoku_battle">معركة سودوكو</string>
+    <string name="sudoku_game_pause_tip1">شارك في أحداث بوقت محدد باش تحصل على ميداليات.</string>
+    <string name="sudoku_game_pause_tip10">التيمات بألوان مختلفة يمكن تجيب ليك تجارب لعب مختلفة.</string>
+    <string name="sudoku_game_pause_tip11">ضغط على زر التيمة اللي موجود في الفوق ديال اللوح باش تغير حجم الكتابة.</string>
+    <string name="sudoku_game_pause_tip12">يمكن ليك تطلع على قواعد اللعبة من خلال \"طريقة اللعب\" اللي كاينة ف الإعدادات.</string>
+    <string name="sudoku_game_pause_tip13">إلى واجهتي أي مشكلة، يمكن تخلي لينا الملاحظات ديالك ف الإعدادات.</string>
+    <string name="sudoku_game_pause_tip14">خاصك تدير المزامنة على الجهاز القديم هو لول، عاد تدير المزامنة على الجهاز الجديد.</string>
+    <string name="sudoku_game_pause_tip15">يمكن ليك الخروج من التطبيق بالضغط على الجزء الخلفي الأسفل من الجهاز ديالك.</string>
+    <string name="sudoku_game_pause_tip16">غاتخصك تذكرة معركة وحدة باش تلعب معركة اللعبة في كل مرة.</string>
+    <string name="sudoku_game_pause_tip17">ضغط على زر التيمة الموجود في أعلى اللوح باش تنتقل للوضع الليلي.</string>
+    <string name="sudoku_game_pause_tip2">كمل تحديات يومية باش تربح جوائز.</string>
+    <string name="sudoku_game_pause_tip3">هاد الدعامة يمكن تعمر جميع علامات قلم الرصاص الممكنة.</string>
+    <string name="sudoku_game_pause_tip4">يمكن ليك توقف تشغيل وظيفة الملء التلقائي من الإعدادات.</string>
+    <string name="sudoku_game_pause_tip5">نظام التلميحات الذكية يمكن يعاونك على حل ألغاز السودوكو.</string>
+    <string name="sudoku_game_pause_tip6">حطم الرقم القياسي ديالك.</string>
+    <string name="sudoku_game_pause_tip7">كمل الوضع التلقائي باش تحصل على مكافآت.</string>
+    <string name="sudoku_game_pause_tip8">إلى قمتي بحركة خاطئة، يمكن ليك تراجع عليها.</string>
+    <string name="sudoku_game_pause_tip9">يمكن ليك حذف الأرقام الخاطئة أو علامات قلم الرصاص.</string>
+    <string name="sudoku_id">رمز تعريف السودوكو</string>
+    <string name="sudoku_input_swipe_tip">دوز صبعك باش تزيد الحروف！</string>
+    <string name="sudoku_introduce">"لعبة سودوكو التقليدية هي شبكة ألغاز مكونة من 9 مناطق 3 صفوف × 3 أعمدة
+ما عليك القيام به هو إكمال لغز سودوكو والتأكد من عدم ظهور نفس الرقم مرتين في نفس الصف أو العمود أو أياً من المناطق التسعة ذات ال 3 صفوف × 3 أعمدة.."</string>
+    <string name="sudoku_king">سودوكو كينغ</string>
+    <string name="sudoku_new_game_nonogram_import_content">Our new number puzzle game</string>
+    <string name="sudoku_new_game_nonogram_import_title">Nonogram</string>
+    <string name="sudoku_no">لا</string>
+    <string name="sudoku_ok">حسناً</string>
+    <string name="sudoku_tips">الإرشادات ديال السودوكو</string>
+    <string name="sudoku_user_complete_info">%1$s من المستخدمين أكملوا هذا السودوكو!</string>
+    <string name="sudoku_yes">ايه</string>
+    <string name="sun">الأحد</string>
+    <string name="survey_success_message">شكرا لك على الفيدباك الذي قدمته، سنراجعه ونعمل من أجل الأفضل!</string>
+    <string name="sword_fish">سمك أبو سيف</string>
+    <string name="sword_fish_desc">إذا كان من الممكن أن يظهر الرقم المرشح فقط في خليتين أو ثلاث خلايا من كل من ثلاثة صفوف أو ثلاثة أعمدة، وكانت هذه الخلايا موجودة بالضبط في نفس الأعمدة الثلاثة أو ثلاثة صفوف، فيمكن حذف الرقم المرشح من الخلايا الأخرى في هذه الأعمدة الثلاثة أو ثلاثة صفوف.</string>
+    <string name="sword_fish_step_1">أولاً، في هذه الأعمدة الثلاثة، يمكن فقط ملء &lt;c2>هذه الخلايا المميزة&lt;/c2> بـ &lt;c1>8&lt;/c1>. يجب أن يحتوي كل عمود على خلية مملوءة بـ &lt;c1>8&lt;/c1>، لذلك يجب ملء ثلاث من &lt;c2>هذه الخلايا&lt;/c2> بـ &lt;c1>8&lt;/c1>.</string>
+    <string name="sword_fish_step_2">هذه الخلايا مقيدة أيضًا بـ &lt;c1>ثلاثة صفوف&lt;/c1>، لذلك يجب ملء ثلاث من &lt;c2>هذه الخلايا&lt;/c2> في &lt;c1>هذه الصفوف الثلاثة&lt;/c1> بـ &lt;c1>8&lt;/c1>. ولا يمكن أن يظهر الرقم إلا مرة واحدة على التوالي.</string>
+    <string name="sword_fish_step_3">لذا، يجب ملء &lt;c2>الخلية المميزة&lt;/c2> بـ 8 في كل من &lt;c1>هذه الصفوف الثلاثة&lt;/c1>. ثم يمكننا حذف 8 من الخلايا الأخرى في &lt;c1>هذه الصفوف الثلاثة&lt;/c1>.</string>
+    <string name="sync">مزامنة</string>
+    <string name="sync_dialog_text">راه ضفنا معطيات جديدة، يمكن ليك تضغط على زر المزامنة باش تجدد المعطيات ديالك!</string>
+    <string name="sync_failed">مزامنة فاشلة، من فضلك تأكد من الشبكة</string>
+    <string name="sync_success">مزامنة ناجحة</string>
+    <string name="syncing">مزامنة جارية</string>
+    <string name="tab_new">جديد</string>
+    <string name="take_a_look">دير طليلة</string>
+    <string name="tap_to_continue">اضغط للمتابعة</string>
+    <string name="tap_to_input">انقر لإدخال</string>
+    <string name="target_guide_text">لقا الأرقام المناسبة باش تفوز بهاد المستوى.</string>
+    <string name="target_title_text">الرقم المناسب</string>
+    <string name="teach_use_share_game1">دخل رمز تعريف السودوكو باش تلعب اللعبة اللي تناسبك</string>
+    <string name="teach_use_share_game2">يمكن ليك تلعب نفس لعبة السودوكو مع صاحبك، يكفي دخل رمز تعريف السودوكو ديالو.</string>
+    <string name="teach_use_share_game3">في المقابل، يمكن ليك حتا نتا تشارك رمز تعريف السودوكو ديالك مع صحابك باش تلعبو مجموعين.</string>
+    <string name="teaching_page1_desc_1">حدد الرقم 3 وتحقق من صفه.</string>
+    <string name="teaching_page1_desc_2">بما أن الصف يمكن أن يحتوي على رقم 3 واحد فقط، فإن الخلايا الأخرى في ذلك الصف لا يمكن أن تكون 3.</string>
+    <string name="teaching_page1_desc_3">يجب أن يحتوي كل مربع 3x3 على الرقم 3، لذا فآخر خلية متبقية في المربع يجب أن تكون 3.</string>
+    <string name="teaching_page2_desc_1">اختر الخلية المظللة ولاحظ الأرقام الموجودة بالفعل في صفها وعمودها ومربعها: 1، 3، 4، 5، 6، 7، 8، و9.</string>
+    <string name="teaching_page2_desc_2">بما أن كل رقم يمكن أن يظهر مرة واحدة فقط في صفه وعموده ومربعه، فإن الرقم الوحيد الممكن لهذه الخلية هو 2.</string>
+    <string name="teaching_skills">تعليم المهارات</string>
+    <string name="terms_of_service">شروط الخدمة وسيا</string>
+    <string name="the_number">الرقم %1$s</string>
+    <string name="theme">تيمة</string>
+    <string name="theme_dark">مظلم</string>
+    <string name="theme_light">مضاء</string>
+    <string name="theme_tips">قم بالتبديل إلى وضع أغمق إذا كنت تريد</string>
+    <string name="this_box">هاد الخانة</string>
+    <string name="this_cell_2">هاد الخلية</string>
+    <string name="this_column">هاد العمود</string>
+    <string name="this_month">هاد الشهر</string>
+    <string name="this_row">هاد الصف</string>
+    <string name="this_week">هاد الأسبوع</string>
+    <string name="thu">الخميس</string>
+    <string name="time">وقت</string>
+    <string name="time_is_out">انتهى الوقت !</string>
+    <string name="tips">نصائح</string>
+    <string name="today_challenge">تحدي اليوم</string>
+    <string name="today_goals">أهداف اليوم</string>
+    <string name="today_sudoku">التحدى اليومى</string>
+    <string name="today_text">اليوم</string>
+    <string name="today_users_have_reached">اليوما %1$s ديال المستخدمين وصلوا</string>
+    <string name="tower_medal_toast">المستوى الكامل %1$s للحصول على المكافآت!</string>
+    <string name="trophy_room">غرفة الجوائز</string>
+    <string name="try_again">حاول مرة أخري</string>
+    <string name="try_higher_difficulty">جرب مستوى بصعوبة أكبر!</string>
+    <string name="try_innovative">جرّب Sudoku الإبداعي</string>
+    <string name="try_it">جربها</string>
+    <string name="try_now">حاول الآن</string>
+    <string name="try_the_new_killer_game">جرب لعبة Killer Sudoku الجديدة</string>
+    <string name="tue">الثلاثاء</string>
+    <string name="turn_off_smart_hint">واش باغي توقف التلميحات الذكية؟</string>
+    <string name="type">اكتب</string>
+    <string name="undo">تراجع</string>
+    <string name="unique_number_2">في لعبة السودوكو، ما يمكنش الأرقام 1–9 تبان جوج مرات في نفس الصف، العمود أو المكان.</string>
+    <string name="unique_number_3">وكيفما كاتشوف في الشكل، فالأرقام اللي تتبان في المنطقة البارزة مايمكنش تبان ف هاد الخلية.</string>
+    <string name="unique_number_4">كتضم الصفوف، الأعمدة، والخانات ديال هاد الخلية كل الأرقام باستثناء %1$s.</string>
+    <string name="unique_number_5">وهاكا فهاد الخلية مايمكنش تعمرها إلا ب %1$s.</string>
+    <string name="unlimited_fast_pencil">قلم سريع غير محدود</string>
+    <string name="unlimited_hints">تلميحات غير محدودة</string>
+    <string name="unlimited_second_chance">فرصة ثانية غير محدودة</string>
+    <string name="upvote">تصويت إيجابي</string>
+    <string name="use_fast_pencil">استعمل قلم سريع باش تعمر كل الملاحظات بشكل تلقائي</string>
+    <string name="use_once">استخدم مرة وحدة</string>
+    <string name="use_pencil_in_rounds">استخدم قلم رصاص في%1$s جولات</string>
+    <string name="user_center_achievement_desc">عدد من بلدي الإنجازات</string>
+    <string name="user_center_active_desc">عدد من بلدي ميداليات</string>
+    <string name="user_center_activte_title">حدث</string>
+    <string name="user_center_battle_desc">الانتصارات لعبة</string>
+    <string name="user_center_dc_desc">عدد من بلدي الجوائز</string>
+    <string name="user_teach_push_content">استخدم هذه الاستراتيجيات لاختراقات فعالة!</string>
+    <string name="user_teach_push_title">هل سمعت عن هذه الأسرار في حل الألغاز؟</string>
+    <string name="version">الإصدار</string>
+    <string name="vibration">إهتزاز</string>
+    <string name="warning">تحذير</string>
+    <string name="watch">شاهد</string>
+    <string name="watch_rewarded_bonus_3hints">علاوة! شاهد فيديو لتحصل على %1$s إشارات مجانيه</string>
+    <string name="watch_rewarded_get_3hints">أهلا بك مرة أخرى! شاهد فيديو لتحصل على %1$s إشارات مجانيه</string>
+    <string name="wed">الأربعاء</string>
+    <string name="week">أسبوع</string>
+    <string name="week_sub_text">غايتم تجديد العضوية الأسبوعية في لعبة السودوكو على أندرويد بشكل تلقائي مقابل %1$s للأسبوع بعد سبعة أيام ديال التجربة المجانية. يمكن ليك تدبير أو إلغاء الاشتراك من خلال حساب Google Play. بعد الإلغاء، مغاديش تلقى تعويض على فترة الفوترة، وغادي تبقا توصل بمحتويات الاشتراك. سيتم تفعيل الإلغاء ملي تنتهي فترة الفوترة.</string>
+    <string name="weekly_best">أفضل أسبوعي</string>
+    <string name="weekly_best_time">أفضل توقيت ف الأسبوع</string>
+    <string name="weekly_data_update">تحديث البيانات الأسبوعي يوم الاثنين على 00:00</string>
+    <string name="weekly_streak">متتالية أسبوعية</string>
+    <string name="weekly_win_rate">معدل الفوز الأسبوعي</string>
+    <string name="welcome">أهلا بك!</string>
+    <string name="welcome_to_sudoku">مرحبا بكم في سودوكو</string>
+    <string name="well_done">برافو！</string>
+    <string name="will_lose_battle">غادي تخسر هذه المعركة.</string>
+    <string name="win_battle">ربحتي المعركة!</string>
+    <string name="win_rate">معدل الفوز</string>
+    <string name="wins">فوز</string>
+    <string name="world_game_completed">الألعاب اللي كملات في أنحاء العالم.</string>
+    <string name="world_travel">السفر حول العالم</string>
+    <string name="x_wing">الجناح–X</string>
+    <string name="x_wing_desc">إذا كان من الممكن أن يظهر الرقم المرشح فقط في خليتين من صف أو عمود، وكانت هاتان الخليتان موجودتين في نفس الصف أو العمود، وإذا كان من الممكن أيضًا أن يظهر نفس الرقم المرشح فقط في خليتين من صف أو عمود آخر، فإنه يشكل مستطيلاً مع الخليتين الأوليين، فإن هذا يسمى هيكل X–Wing. يمكن أن يظهر الرقم المرشح فقط في الخلايا القطرية لهذا المستطيل، لذلك يمكن إزالة الرقم المرشح من الخلايا الأخرى في نفس الصف أو العمود مثل X–Wing.</string>
+    <string name="x_wing_step_1">انظر، هناك صفان يحتويان فقط على &lt;c2>خليتين محتملتين&lt;/c2> لـ &lt;c1>1&lt;/c1> على التوالي. ويشكلان مستطيلاً.</string>
+    <string name="x_wing_step_2">يمكننا أن نرى أنه يجب ملء المجموعة &lt;c3>الأخضر 1&lt;/c3> أو المجموعة &lt;c4>الأحمر 1&lt;/c4>.</string>
+    <string name="x_wing_step_3">لذلك يجب أن يكون &lt;c2>b5&lt;/c2> أو &lt;c2>g5&lt;/c2> &lt;c1>1&lt;/c1>، ويجب أن يكون &lt;c2>b9&lt;/c2> أو &lt;c2>g9&lt;/c2> يكون &lt;c1>1&lt;/c1>. ثم يمكننا حذف &lt;c1>1&lt;/c1> من الخلايا الأخرى في هذين العمودين.</string>
+    <string name="xy_wing">الجناح–XY</string>
+    <string name="xy_wing_desc">عندما يتم تشكيل ثلاثة أزواج من الأرقام المرشحة، المكونة من ثلاثة أرقام x وy وz، في ثلاث خلايا، وإذا كانت الخلية xy موجودة في نفس الصف أو العمود أو الكتلة مثل الخلايا xz وyz، فإن الخلية xz أو yz سوف تحتوي على رقم المرشح z. لذلك يمكن حذف الرقم المرشح z من الخلايا الأخرى التي تتحكم فيها كل من الخلايا xz وyz.</string>
+    <string name="xy_wing_step_1">انظر، هناك &lt;c2>خليتان&lt;/c2> تحتويان على &lt;c1>2&lt;/c1> و&lt;c3>3&lt;/c3>، و&lt;c1>2&lt;/c1>، و&lt;c3>8&lt;/c3> على التوالي. وهي موجودة في نفس الصف أو العمود أو المربع حيث تحتوي &lt;c2>الخلية&lt;/c2> على &lt;c3>3&lt;/c3> و&lt;c3>8&lt;/c3>.</string>
+    <string name="xy_wing_step_2">إذا كان &lt;c2>i9&lt;/c2> يساوي &lt;c3>3&lt;/c3>، فيجب أن يكون &lt;c2>g7&lt;/c2> &lt;c1>2&lt;/c1>. إذا كان &lt;c2>i9&lt;/c2> هو &lt;c3>8&lt;/c3>، فيجب أن يكون &lt;c2>a9&lt;/c2> &lt;c1>2&lt;/c1>. ولذلك، يجب أن يكون &lt;c2>g7&lt;/c2> أو &lt;c2>a9&lt;/c2> &lt;c1>2&lt;/c1>.</string>
+    <string name="xy_wing_step_3">لذلك يجب حذف &lt;c1>2&lt;/c1> من أي من &lt;c1>الخلايا المتقاطعة&lt;/c1> في &lt;c2>g7&lt;/c2> و&lt;c2>a9&lt;/c2>.</string>
+    <string name="xyz_wing">الجناح–XYZ</string>
+    <string name="xyz_wing_desc">بالنظر إلى ثلاثة أرقام x وy وz، توجد ثلاث خلايا تحتوي على الأرقام المرشحة xz وyz وxyz. عندما تكون الخلية التي تحتوي على xyz في نفس الصف/العمود/الكتلة مثل الخلايا التي تحتوي على xz وyz، يجب أن تحتوي إحدى الخلايا xz وyz وxyz على الرقم المرشح z. لذلك، يمكن لأي خلايا أخرى يتم التحكم فيها بواسطة xz وyz وxyz حذف الرقم المرشح z.</string>
+    <string name="xyz_wing_step_1">انظر، هناك &lt;c2>خليتان&lt;/c2> تحتويان على &lt;c3>9&lt;/c3> و&lt;c1>5&lt;/c1>، و&lt;c3>3&lt;/c3> و&lt;c1>5&lt;/c1> على التوالى. وهي موجودة في نفس الصف أو العمود أو المربع الذي يحتوي على &lt;c2>الخلية&lt;/c2> التي تحتوي على &lt;c3>9&lt;/c3> و&lt;c3>3&lt;/c3> و&lt;c1>5&lt;/c1>.</string>
+    <string name="xyz_wing_step_2">لا يمكن ملء &lt;c2>g8&lt;/c2> إلا بـ &lt;c3>9&lt;/c3> أو &lt;c3>3&lt;/c3> أو &lt;c1>5&lt;/c1>. إذا كان &lt;c2>g8&lt;/c2> يساوي &lt;c3>9&lt;/c3>، فيجب أن يكون &lt;c2>i7&lt;/c2> &lt;c1>5&lt;/c1>. إذا كان &lt;c2>g8&lt;/c2> يساوي &lt;c3>3&lt;/c3>، فيجب أن يكون &lt;c2>g6&lt;/c2> &lt;c1>5&lt;/c1>. ولذلك، يجب ملء واحدة على الأقل من &lt;c2>هذه الخلايا الثلاث&lt;/c2> بـ &lt;c1>5&lt;/c1>.</string>
+    <string name="xyz_wing_step_3">لذا يجب حذف &lt;c1>5&lt;/c1> من أي من &lt;c1>الخلايا المتقاطعة&lt;/c1> في &lt;c2>g8&lt;/c2> و&lt;c2>i7&lt;/c2> و&lt;c2>g6&lt;/c2>.</string>
+    <string name="year">سنة</string>
+    <string name="you_lose_1_heart">تفقد قلبًا واحدًا</string>
+    <string name="your_score">درجاتك</string>
+    <string name="zen_mode_challenge">تحدي وضع–زين</string>
+    <string name="zen_mode_guide_desc">مرحبا بيك ف وضع – زين، وضع من دون إمكانية الخطأ، هنا يمكن ليك تستمتع بتجربة حل ألغاز فيها تحدي أكبر</string>
+</resources>
