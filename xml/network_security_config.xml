@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">127.0.0.1</domain>
+        <domain includeSubdomains="true">69.234.247.27</domain>
+        <domain includeSubdomains="true">cdn.dailyinnovation.biz</domain>
+        <domain includeSubdomains="true">cdn.freesudoku.me</domain>
+        <domain includeSubdomains="true">game-common-api-dev.dailyinnovation.biz</domain>
+        <domain includeSubdomains="true">cdn-creatives-akamai-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-creatives-akamaistls-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-creatives-akamaistls-re-prd.unityads.unity3d.com </domain>
+        <domain includeSubdomains="true">cdn-creatives-geocdn-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-creatives-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-creatives-highwinds-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-creatives-tencent-prd.unityads.unitychina.cn</domain>
+        <domain includeSubdomains="true">cdn-store-icons-akamai-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-store-icons-highwinds-prd.unityads.unity3d.com</domain>
+        <domain includeSubdomains="true">cdn-store-icons-tencent-prd.unityads.unitychina.cn</domain>
+        <domain includeSubdomains="true"> cdn-creatives-akamaistls-prd.acquire.unity3dusercontent.com </domain>
+    </domain-config>
+    <debug-overrides>
+        <trust-anchors>
+            <certificates src="user" />
+        </trust-anchors>
+    </debug-overrides>
+</network-security-config>
